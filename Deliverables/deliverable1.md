@@ -17,7 +17,7 @@ After you've been assigned to a group, make sure you have set up your Github acc
 
 
 
-Once you've accepted the group invite, you'll have access to your group's repository on the "Herring-UGAECSE-2920-S22" Github organization. From here, you'll need to set up Git and Python on your personal computer to complete this assignment (assuming they are not already installed).
+Once you've accepted the group invite, you'll have access to your group's repository on the "Herring-UGAECSE-2920-S22" Github organization. From here, you'll need to set up [Git](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/set-up-git) and [Python](https://realpython.com/installing-python/) on your personal computer to complete this assignment (assuming they are not already installed).
 
 >Note: In order to clone Git repositories via SSH (recommended) you need to have the public SSH key for your computer linked to your Github account. Instructions for generating and linking SSH keys are in the Git setup guide linked above.
 
