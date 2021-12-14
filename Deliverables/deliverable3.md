@@ -2,7 +2,7 @@
 
 For this week's deliverable, you'll be testing some of the functionality of your Raspberry Pi and additional hardware by using the DFRobot LCD Hat, the KY40 Rotary Encoders, and accessing it's GPIO. You'll also be creating an initial circuit diagram for your system.
 
-## Returning Hardware (P)
+## Verify Hardware (P)
 
 Before or during class on Friday, you must return the hardware listed in [Deliverable 2](deliverable2.md) by either going to Dr.Herring's (Driftmier 1202) or Dr.Trudgen's (Driftmier 1200) Offices throughout the week or by showing up to class.
 
@@ -41,30 +41,7 @@ For both of these you'll need to use the [`pigpio` Python library](http://abyz.m
 
 While you're creating your GPIO input script, you'll notice that a simple polling method of using the GPIO may not give the results desired. To remedy this, we suggesting looking into setting up [interrupts/callbacks](http://abyz.me.uk/rpi/pigpio/python.html#callback) with the GPIO pins, or using [software debounce](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce).
 
-## Creating a Circuit Diagram (D)
 
-Finally, you'll need to create a initial circuit diagram detailing how every component of your XY Plotter system will be connected including but not limited to the:
-
-- [LCD Hat](https://wiki.dfrobot.com/I_O_Expansion_HAT_for_Pi_zero_V1_0_SKU_DFR0604IIC_16X2_RGB_LCD_KeyPad_HAT_1_0_SKU_DFR0514_DFR0603)
-- [Motor Hat](https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/downloads)
-- [H-Bridge Chip](https://www.ti.com/lit/ds/symlink/sn754410.pdf)
-- [12V to 5V Linear Regulator for H-Bridge Chip](https://www.mouser.com/datasheet/2/308/MC7800_D-1773680.pdf)
-- [Rotary Encoders](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjXwtXS2oPuAhWPjFkKHYodBB4QFjAAegQIBBAC&url=https%3A%2F%2Fwww.handsontec.com%2Fdataspecs%2Fmodule%2FRotary%2520Encoder.pdf&usg=AOvVaw3gHhCyMKuvA0829x1elFn4)
-- [Stepper Motors](https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg)
-
-and any other electrical components needed for the project such as power supplies (12V), resistors, capacitors, or any integrated circuits used.
-
-To create this you can use any tool you wish, however we recommend using the [Autodesk EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) schematic creator (free for students) or [circuit-diagram.org](https://www.circuit-diagram.org/), as they are both extensible, meaning you can import or create custom blocks such as one for the Raspberry Pi 4 GPIO.  
-At a minimum, the diagram should show that you understand how each component interconnects to the PI and/or appropriate hats.  The circuit diagram should be detailed enough to show pins and additional components.  In other words, it should be adequate for someone to wire up your design.  All designs evolve so this is not meant to be the final circuit diagram.  We want to make sure you understand the interactions enough to proceed to the next steps.
-You may need to read the specifications for the H-Bridge and Linear regulator (and other items, of course).  We've provided many "watch outs" and "make sures"  so make sure you watch out for these as hints, aids, and general guides for your designs.
-
-## Wiring Safety Checkpoint for Motor Hat (P)
-
-Before demonstrating control over two of the stepper motors on the plotter, you'll need to correctly wire the X and Y axis steppers to the Adafruit Motor Hat. This is a wiring diagram on paper mapping the appropriate motor hat pins to the appropriate X and Y motor stepper wiring.  **Do not wire up the motor hat to the Stepper motors that came with the plotter!  Doing so will burn out the Adafruit Motor Hat!** After doing so, you'll need to meet with Dr. Herring, Dr. Trudgen, or one of the TAs in class on Friday to verify correct wiring/power delivery. Once you have passed this wiring check, you'll be given the 12V 5A power supply as well as the 350mA stepper motors.
-
-Information about the stepper motor and how it is used/wired can be found [here](https://www.adafruit.com/product/324).
-
-> Note: You can see the wire pairing on the stepper motor specs from the link.  However, with just the stepper motor, you can confirm which two wires go together.  Play around with the stepper motor that came with the plotter and see if you can determine its wire pairing. More information on determining this can be found in the Adafruit Motor Hat page linked [here](https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi/using-stepper-motors).
 
 # Summary
 
