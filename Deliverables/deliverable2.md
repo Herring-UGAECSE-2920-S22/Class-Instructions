@@ -17,7 +17,7 @@ For this section you will need to assemble your car. Before Assembling see [this
 
 Finally, you'll need to go through the Raspberry Pi setup documentation found [here](setup/pi_setup.md). It will guide you through setting up the Pi and getting all of the Python dependencies and environment set up. It will also link to helpful documentation for how to work on the Raspberry Pi, remotely or otherwise.
 
-## Practice Committing Changes
+## Practice Committing Changes(P)
 
 After your Raspberry Pi is fully setup along with your github account. You can now use git to save changes on the pi to github or save changes on github to the pi. This is very useful when coding in groups. 
 
