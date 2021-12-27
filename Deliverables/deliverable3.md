@@ -14,13 +14,8 @@ First, you'll need to demonstrate that you can take advantage of some of the bas
 
 To accomplish this, you'll need to read through the [DFRobot LCD documentation](https://wiki.dfrobot.com/I_O_Expansion_HAT_for_Pi_zero_V1_0_SKU_DFR0604IIC_16X2_RGB_LCD_KeyPad_HAT_1_0_SKU_DFR0514_DFR0603). We've included the library needed to use the LCD (`rgb1602.py`) under the `lib` directory in your starter repository on the class Github, and you should look through it to get an idea of how to use the LCD. It should also be helpful to look through the [DFRobot provided examples on Github](https://github.com/DFRobot/DFRobot_RGB1602_RaspberryPi).
 
-## Characterize Microphone(P)
+## Characterize Microphone(D)
 
-To provide user input to the plotter, two rotary encoders will be used. To simplify the development of this project for you, you will be using the [Pigpio Encoder Python library](https://github.com/vash3d/pigpio_encoder)
-
-The library should already be included in your group repository, under the `lib` directory.
-
-The Github page gives a through explanation of how to use the library. 
 
 **P**: To demonstrate a basic understanding of how to use the KY40 Rotary Encoder, create a program which increments and prints an integer on the LCD when you turn the encoder to the right, and decrements and prints the integer on the LCD when you turn the encoder to the left.
 
@@ -47,14 +42,8 @@ While you're creating your GPIO input script, you'll notice that a simple pollin
 
 In summary, for this week you need to:
 
-1. Make sure you have returned the unused hardware listed in [Deliverable 2](deliverable2.md) to Dr.Herring or Dr.Trudgen either before or during class on Friday. You can return then to Dr.Herring's (Driftmier 1202) and Dr.Trudgen's (Driftmier 1200) Offices throughout the week or in class on Friday.
+1. Make sure all your hardware is in your kit and is in working shapes and fill out the parts checklist
 
 2. Submit evidence in the form of pictures/videos for your **P** deliverable items to the Progress Deliverable 3 assignment folder on ELC. You do not need to submit code on ELC, just make sure your GitHub repository is up to date and contains the needed scripts.  Make sure videos are short (less than 30 seconds per video), clear, and are narrated so that you communicate what you are showing.  Do not sumbit Apple only playable videos or photos.  They should be playable by standard software readily available. If you submit photos, make sure that they are labeled or identify in some way what you are showing.
 
-2. Bring your wiring diagram for the Adafruit Motor Hat pins to the new stepper motor wiring (Use colors of wires to the pins).  We will check this in class on Friday and provide you your new stepper motors.
-
-3. Submit your completed Circuit Diagram to the Design Deliverable 3 assignment folder on ELC.
-
-4. Update your User Manual and Technical Documentation with your findings.
-
-5. Submit your Weekly Project Management Report to the "WPM for Deliverable 3" assignment folder on ELC.
+3. Update your User Manual and Technical Documentation with your findings.
