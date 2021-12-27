@@ -2,15 +2,15 @@
 
 For this week's deliverable, you'll be testing some of the functionality of your Raspberry Pi and additional hardware by using the DFRobot LCD Hat, the KY40 Rotary Encoders, and accessing it's GPIO. You'll also be creating an initial circuit diagram for your system.
 
-## Verify Hardware (P)
+## Verify Hardware (D)
 
-Before or during class on Friday, you must return the hardware listed in [Deliverable 2](deliverable2.md) by either going to Dr.Herring's (Driftmier 1202) or Dr.Trudgen's (Driftmier 1200) Offices throughout the week or by showing up to class.
+Using your hardware list(insert list image) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled our status sheet for your parts.
 
 ## Wiggle Motors (D)
 
-First, you'll need to demonstrate that you can take advantage of some of the basic features of the DFRobot LCD necessary for creating a useful user interface. Before attempting to use the LCD, make sure the Adafruit motor hat is either off of the Pi, or its `I2C` address has been changed by creating a solder bridge on the `A0` jumper, otherwise the LCD will not be able to communicate with the Pi.  This is clearly described in Deliverable 4.  For now don't have the Motorhat and the DFRobot LCD both on the PI at the same time.
+First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program demonstrating both motors moving and also one motor moving at a time.
 
-**P**: To demonstrate grasp of how to set up and use the LCD and its buttons, create a program which displays an integer starting at 0 on the LCD. Whenever the top LCD button is pressed, the number increments by 1 and whenever the bottom LCD button is pressed, the number decrements by 1.
+**Hint**: Take a look at [python multithreading](https://realpython.com/intro-to-python-threading/) in order to protect your program as you run methods for both motors.
 
 To accomplish this, you'll need to read through the [DFRobot LCD documentation](https://wiki.dfrobot.com/I_O_Expansion_HAT_for_Pi_zero_V1_0_SKU_DFR0604IIC_16X2_RGB_LCD_KeyPad_HAT_1_0_SKU_DFR0514_DFR0603). We've included the library needed to use the LCD (`rgb1602.py`) under the `lib` directory in your starter repository on the class Github, and you should look through it to get an idea of how to use the LCD. It should also be helpful to look through the [DFRobot provided examples on Github](https://github.com/DFRobot/DFRobot_RGB1602_RaspberryPi).
 
