@@ -4,6 +4,9 @@
 ## CATME Submission
 Please fill out and submit the CATME form sent to your email! Do this by 1/??/2022, otherwise we will assign you to a group at our discretion!
 
+## Syllabus Quiz
+Please Complete the Syllabus Quiz found on ELC by 1/??/2022.
+
 ## Github Account Setup
 
 Before we assign you to a group on the class Github organization, we'll need you to create a Github account (free) and submit your username or github email so that we can invite you. If you already have an account you don't need to make a new one, just submit it to the ELC assignment. Otherwise, Github account setup is fairly straight forward, simply go to [Github](https://github.com/login) and follow the instructions there!
@@ -32,4 +35,12 @@ When you have the repository cloned, create a Python script under a directory na
 In the script, simply print your full name and exit. When done, make sure to save your changes and 'push' them to Github by following [this](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line) guide.
 
 After that, you're finished.
+
+# Summary
+
+In summary, for this week you need to:
+
+1. Complete the CATME Survey
+2. Complete the Syllabus Quiz
+3. Set up your GitHub and Complete the GitHub exercise.
 
