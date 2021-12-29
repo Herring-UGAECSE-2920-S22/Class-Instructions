@@ -4,6 +4,29 @@ In this document, students will find all parts included in their hardware kits a
 
 ## Verify Existing Behavior
 
-Starting with the Car Kit, you should have the following parts:
+Inside you hardware kit you should have the following parts:
 
-![FRAME](../images/FRAME.jpg)
+![PartList](../images/PartList.jpg)
+
+There are a few parts that you should check to see if they are in working condition those parts include:
+
+1. Raspberry Pi - Check functionality by following the raspberry pi set up found in the deliverable instructions
+
+![RASPI](../images/RASPI.jpg)
+
+2. Microphone - Check for sound detection
+
+![MIC](../images/RASPI.jpg)
+
+3. Motors - Check and make sure that both motors are working fully
+
+![MOTORS](../images/MOTORS.jpg)
+
+4. Optical Encoders - Check for disk detection 
+
+![OPCODE](../images/OPTENCODE.jpg)
+![RTRY](../images/RTRYWHEEL.jpg)
+
+5. Ultrasonic Sensor - Check for distance detection
+
+![ULTRA](../images/ULTRASENS.jpg)
