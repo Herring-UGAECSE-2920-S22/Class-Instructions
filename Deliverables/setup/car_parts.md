@@ -6,4 +6,4 @@ In this document, students will find all parts included in their hardware kits a
 
 Starting with the Car Kit, you should have the following parts:
 
-[pic](./images/FRAME.png)
+![pic](./images/FRAME.png)
