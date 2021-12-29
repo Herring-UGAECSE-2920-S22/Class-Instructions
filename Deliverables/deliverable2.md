@@ -7,11 +7,11 @@ Right now would also be a good time to read through the rules for the project ou
 
 ## Documenting Existing Behavior (P)
 
-For this section of the deliverable, you'll be following INSERT GUIDE HERE to assemble and use your car.
+For this section of the deliverable, you'll be following the included instructions or using your own design to assemble and use your car. While doing that please ensure your kit has all the neccessary parts and that those parts work. This will be very important for a smooth return process at the end of the semester. To help with this see [this guide] for the parts and how they should be working.
 
 ## Assemble Hardware (P)
 
-For this section you will need to assemble your car. Before Assembling see [this guide] for guidelines while building. You may use the instructions included in the kit or assemble it your own way. 
+For this section you will need to assemble your car. Before Assembling see the included guide for guidelines while building. You may use the instructions included in the kit or assemble it your own way. 
 
 ## Raspberry Pi Setup (P)
 
