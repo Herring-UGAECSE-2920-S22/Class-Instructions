@@ -7,7 +7,7 @@ Right now would also be a good time to read through the rules for the project ou
 
 ## Documenting Existing Behavior (P)
 
-For this section of the deliverable, you'll be following the included instructions or using your own design to assemble and use your car. While doing that please ensure your kit has all the neccessary parts and that those parts work. This will be very important for a smooth return process at the end of the semester. To help with this see [this guide] for the parts and how they should be working.
+For this section of the deliverable, you'll be following the included instructions or using your own design to assemble and use your car. While doing that please ensure your kit has all the neccessary parts and that those parts work. This will be very important for a smooth return process at the end of the semester. To help with this see [this guide](./setup/car_parts.md) for the parts and how they should be working.
 
 ## Assemble Hardware (P)
 
