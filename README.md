@@ -3,6 +3,20 @@ Instructions for each checkpoint/module in this class, as well as helpful setup/
 
 
 ## Project Specifications
+FIRST: MAKE SURE YOU REFERENCE THE ASSESSMENT DOCUMENT ON ELC WHICH DESCRIBES THE OUTLINE OF THE COURSEWORK AND HOW YOU CAN EXPECT TO BE ASSESSED.
+
+Your objective this semester is to design a car which can autonomously identify, track, and move to a fixed set of audio frequencies using a Raspberry Pi 4 and the necessary accompanying hardware.
+
+
+
+As covered later, in order to accomplish this you'll be using Python to program, two DC motors for your car. In addition to that, you will be using an H-Bridge chip to drive the motors.
+
+Our objective is to keep your cost to a minimum. However, any additional components that  your team may need that are not supplied to you is your responsibility, and if your team “cooks” a key component (see list), your team must replace the component or receive an incomplete for the course. So pay attention to the resources, best practices, and hints mentioned on this GitHub as well as in class.
+
+There are three key objectives in this class which will be represented by deliverables throughout the semester. Each of which will be graded based on a rubric which will be provided to you. These objectives include drawing figures, detecting a single sound frequency and moving to it, and differentiating between three different frequencies and moving to each in order. Parameters for these objectives will be listed below.
+
+You should strive to make this work as closely to a finished product as possible, meaning doing sufficient bug testing, and making the product easy to setup/use. A part of this process is making sure your code runs on startup for the Raspberry Pi. A small writeup for how to do this can be found here.
+
 
 ### Submitting Work
 
