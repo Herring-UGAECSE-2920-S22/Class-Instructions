@@ -23,7 +23,30 @@ You should strive to make this work as closely to a finished product as possible
 
 ### Differentiate Sources (Deliverable 12)
 
+### Documentation Expectations
 
+Your project will have two required documents: 
+
+For both documents, go to ELC and refer to the ECSE 2920 Spring 2022 Assessments for specific requirements and for the rubric(scoring) metrics for each of the User Manual and the Technical Description of the Design.
+
+1. A User’s Manual
+    
+    - Write a complete step-by-step document instructing a novice user how to use your audio car. Think about your car as a product bought by the user. The manual will instruct the user on all of the functions of your car. 
+    - From your own experience, pictures, drawings, diagrams, etc… make a user’s manual much more beneficial. 
+    - Don’t forget to think about a section on errors or what might go wrong, faqs, clarification, etc. 
+    - User Manuals also contain safety information for the user.
+
+2. A full Technical Description of the Design
+
+    - Write a complete technical design guide for your car. It should describe every facet of the design (hardware and software). It should allow a person skilled in the art to recreate your design. It should provide appropriate technical reasoning for design decisions including simulation, circuit schematics and design tradeoffs.
+    - Multisim, photos of oscilloscope simulations, photos of circuits, Logic.ly simulation, Code examples for key parts of algorithms (the full code will be uploaded on GitHub), and paper worked out notes are all examples. Some of these can also be part of and come from the project management document (see below).
+    - At a minimum, each progress deliverable and design deliverable should be ***WELL*** documented and occupy a chapter in the document.
+    - Because every group will have different approaches to the solution, we can not give a complete requirement that every document must contain. In short, if there is something that makes your plotter work, you must document it.
+    - What if your group did not design it? One example is the mechanical structure of the car itself. In this case, like in any technical document, you must reference the source. You should also describe the function but do not need to get into the design details (structural stress of the aluminum, for example).
+    - What about your software? Each primary function probably has code written for it. Therefore, your document should include a chapter on the structure of your software.  Think about this as the table of contents and flow control for your software. Each of the car’s features/functions that includes software and hardware is most likely a progress or design deliverable and will have a chapter in the document. Use the deliverable chapter to more fully describe the software and hardware.  
+    - If you used pre-written libraries, you must reference them and briefly describe the function. Any code that you wrote from scratch should be well documented (and commented in the code).
+    - Neatest, precision, and completeness will be assessed. Professionalism in content and in the presentation will also be assessed.
+    
 ### Submitting Work
 
 - When submitting work for this class, it will go in the deliverable assignment folder for that week. This includes any work needed for **P** and **D** deliverables, your Weekly Project Management Report, etc. Any code for your group should remain on your group GitHub repository, and you should make sure to update this with your latest work before deliverables are due.
@@ -34,7 +57,7 @@ You should strive to make this work as closely to a finished product as possible
 
 ## Project Rules
 - Below is a set of rules to follow while working on this project in addition to any established on the syllabus. These are generally best practices for keeping your project organized and on track.
-- 
+
 ### Breadboard Wiring
 
 When wiring up components with a breadboard it is crucial that your wires stay organized and distinguishable
