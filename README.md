@@ -17,6 +17,11 @@ There are three key objectives in this class which will be represented by delive
 
 You should strive to make this work as closely to a finished product as possible, meaning doing sufficient bug testing, and making the product easy to setup/use. A part of this process is making sure your code runs on startup for the Raspberry Pi. A small writeup for how to do this can be found here.
 
+### Drawing Figures (Deliverable 5)
+
+### Single Sound Detect (Deliverable 9)
+
+### Differentiate Sources (Deliverable 12)
 
 ### Submitting Work
 
