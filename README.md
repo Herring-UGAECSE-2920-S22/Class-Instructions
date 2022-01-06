@@ -34,9 +34,13 @@ You should strive to make this work as closely to a finished product as possible
 
 ## Project Rules
 - Below is a set of rules to follow while working on this project in addition to any established on the syllabus. These are generally best practices for keeping your project organized and on track.
+- 
+### Breadboard Wiring
+
+When wiring up components with a breadboard it is crucial that your wires stay organized and distinguishable
 
 1. ### Use Clean Wiring
-- Keep your wiring clean. Avoid excessively long wires which make it impossible to trace if there is a problem and are more prone to pull out. You can either purchase wires that are pre-cut to different lengths or make them yourself.
+- Keep your wiring clean. Avoid excessively long wires which make it impossible to trace if there is a problem and are more prone to pull out. You can either purchase wires that are pre-cut to different lengths or make them yourself. If you don’t follow these practices, you’re likely to screw up the wiring for your Audio Car often, which not only leads to frustration and wasted time, but could also be fatal for your more sensitive components such as the H-Bridge chip or the Raspberry Pi. If you follow these steps, you will be well on your way to avoiding the most common pitfalls:
 
 2. ### Use Color Coding
  
@@ -48,7 +52,6 @@ You should strive to make this work as closely to a finished product as possible
 
 - Besides organization, this will really help you spot mis-wirings before you apply power and potentially damage your hardware. Keep a careful lookout for RED and BLACK wires connecting to the same terminal strip, as this could indicate a short.
 
-3. ###
 
 ### Maintaining your Group Github Repository
 
