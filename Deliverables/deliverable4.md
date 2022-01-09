@@ -5,13 +5,24 @@ For deliverable 4, you will be programming your audio car's motors to be used at
 ## Transfer Function (P)
 Once you have both of your motors moving, you may have noticed that they do not move at the same rate of speed. In this deliverabel you will fix this. You will need to use your optical encoders along with the to calculate a transfer function that will get both of your DC motors moving at the same RPM. You can test this by running your car in a straight line and making sure it does not veer to the left or to the right. 
 
-## Power Diagram (P)
+## GPIO Diagram and Power Diagram (P)
+This deliverable will be very helpful as you progress through this project and add more parts, use more GPIOs and start to use your raspberry pi to its full potential.
 
+- For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
+ 
+- For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
+1. Name of the Device
+2. Pins that require power(voltage requirement and current requirement)
+3. Name of source delivering the required power (voltage and current)
+ Along with the listing is a diagram (drawing) showing each source and each load with the voltage distribution drawn. This should be included in your documentation.
 
 # Summary
 
 In summary, for this week you need to:
 
-1. Using the optical encoders provided, calculate and solidify a transfer function that successfully makes both of your DC motors move at the same rate of speed
+1. **P:** Using the optical encoders provided, calculate and solidify a transfer function that successfully makes both of your DC motors move at the same rate of speed
 
-2. Draw and describe your power diagram and program GPIOs
+2. **P:** Draw and describe your power diagram and program GPIOs
+
+3. Update your User Manual and Technical Documentation with your findings.
+4. 
