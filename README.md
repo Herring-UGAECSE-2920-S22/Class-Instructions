@@ -18,11 +18,20 @@ There are three key objectives in this class which will be represented by delive
 You should strive to make this work as closely to a finished product as possible, meaning doing sufficient bug testing, and making the product easy to setup/use. A part of this process is making sure your code runs on startup for the Raspberry Pi. A small writeup for how to do this can be found here.
 
 ### Drawing Figures (Deliverable 5)
+For the drawing figures checkpoint, your goal is to draw each of the required figures correctly. These are straight line, square, and figure 8 using the mode inputs. In your kit you will be provided a DIP switch which can be used to operate mode inputs by toggling 4 switches (See Project Description Document). In this checkpoint your car will be required to drive in a:
 
+- **Straight Line:**  The car will move 3 feet in a straight line and stop.
+- **Square:** The car will drive in a square that is 3 feet on each side 2 times and stop.
+- **Figure 8:** The car will drive in a figure 8 pattern two times and stop.  The two straight center lines of the figure 8 will be 3 feet long. 
+ 
 ### Single Sound Detect (Deliverable 9)
+For this checkpoint your car must  be able to detect a single sound frequency and move to it without hitting the source. This means you must be able to search for the sound using your skills from the last check point as well as identify the strength of the sound using your microphone and filter design. 
+- The set up and objective of this checkpoint is as follows: A sound source will be placed 3-5 feet from the car and in any position with respect to the car(placed by grader. The car will identify and find the sound source .  The car will drive to the sound source and using the ultrasonic sensor, stop prior to hitting the source.  The front of the car must be within 4 inches of the source before stopping.  
 
 ### Differentiate Sources (Deliverable 12)
+Finally this checkpoint will be your final product, this is a combination of all you have done in the other two checkpoints while adding two more sound sources. Your car must be able to differentiate three different frequencies which are playing simultaneously.  Your car must identify and move to each frequency source in the correct order and without hitting the source. 
 
+- The set up and objective of this checkpoint is as follows: The three sound sources will be positioned within 3-5 feet of the starting position of the car (placed by grader).  The car will identify and find the sound sources in order (A, B, C).  The car front of the car must be within 4 inches of the sound source and stop.  After stopping, the car will find the next sound source in sequence.
 ### Documentation Expectations
 
 Your project will have two required documents: 
