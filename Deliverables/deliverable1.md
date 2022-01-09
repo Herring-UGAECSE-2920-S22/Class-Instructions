@@ -2,10 +2,10 @@
  For this first deliverable y'all will be doing three things: completing your CATME form, setting up a Github account and submitting your username, and doing a "Hello World" exercise with Python/Github once you've been assigned a group.
  
 ## CATME Submission
-Please fill out and submit the CATME form sent to your email! Do this by 1/12/2022, otherwise we will assign you to a group at our discretion!
+Please fill out and submit the CATME form sent to your email! Do this by 1/13/2022, otherwise we will assign you to a group at our discretion!
 
 ## Syllabus Quiz
-Please Complete the Syllabus Quiz found on ELC by 1/12/2022.
+Please Complete the Syllabus Quiz found on ELC by 1/13/2022.
 
 ## Github Account Setup
 
