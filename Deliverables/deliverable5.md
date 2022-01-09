@@ -9,7 +9,7 @@ By now your team should have looked into auto start for your pi. If you haven't 
 ## Complete Figure Drawing
 This means not only getting the car moving in a straight line, square, and figure eight. This delieverable will also call for you all to create a transfer function that will allow both motors to run at the same rate. You will be tested on the accuracy of you previous transfer function along with the accuracy of the straight line, square, and figure eight.
 
-**D:** As a part of this deliverable we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guarenteed 'C' in the class but the minimum requirement to be eligible for it.**
+**D:** As a part of this deliverable we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
 # Summary
 
