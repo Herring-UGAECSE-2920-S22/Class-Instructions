@@ -33,7 +33,7 @@ First, you'll need to demonstrate that you can take advantage of some of the bas
 To accomplish this you willl need to know how to **access and use a GPIO**
 
 ## Spectrum Analyzer (D)
-If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document]() in order to help characterize your Mic or anything else you may want to use it for. 
+If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document](./setup/spectrum_instr.md) in order to help characterize your Mic or anything else you may want to use it for. 
 
 ## Characterize Microphone(D)
 
