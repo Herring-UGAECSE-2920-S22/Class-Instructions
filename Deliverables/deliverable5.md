@@ -11,6 +11,10 @@ This means not only getting the car moving in a straight line, square, and figur
 
 **D:** As a part of this deliverable we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
+## Finish Documentation for Figure Drawing/Mode Inputs
+
+As you finish this checkpoint it is important to keep up woth your documentation.  In addition to the in-class demo, you'll also need to submit a video of the work you've completed for your the figure drawing checkpoint. It should be short and to the point, while showing each of the pieces of functionality that you've completed. This is primarily a fallback option for us to grade, in case hardware issues arise in class. Make sure you give commentary during the video so we know what you are doing. Follow the order found in the Project Description document on ELC.
+
 # Summary
 
 In summary, for this week you need to:
