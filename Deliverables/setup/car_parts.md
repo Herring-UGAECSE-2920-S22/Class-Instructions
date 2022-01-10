@@ -12,21 +12,21 @@ There are a few parts that you should check to see if they are in working condit
 
 1. Raspberry Pi - Check functionality by following the raspberry pi set up found in the deliverable instructions
 
-![RASPI](../images/RASPI.jpg)
+<img src="https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/blob/main/Deliverables/images/RASPI.jpg" width="350" height="300">
 
 2. Microphone - Check for sound detection
 
-![MIC](../images/RASPI.jpg)
+<img src="https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/blob/main/Deliverables/images/MIC.jpg" width="350" height="300">
 
 3. Motors - Check and make sure that both motors are working fully
 
-![MOTORS](../images/MOTORS.jpg)
+<img src="https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/blob/main/Deliverables/images/MOTORS.jpg" width="350" height="300">
 
 4. Optical Encoders - Check for disk detection 
+<img src="https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/blob/main/Deliverables/images/OPTENCODE.jpg" width="350" height="300">
+<img src="https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/blob/main/Deliverables/images/RTRYWHEEL.jpg" width="350" height="300">
 
-![OPCODE](../images/OPTENCODE.jpg)
-![RTRY](../images/RTRYWHEEL.jpg)
 
 5. Ultrasonic Sensor - Check for distance detection
+<img src="https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/blob/main/Deliverables/images/ULTRASENS.jpg" width="350" height="300">
 
-![ULTRA](../images/ULTRASENS.jpg)
