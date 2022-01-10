@@ -16,7 +16,7 @@ A lot of this information can also be found in the CanaKit Quickstart Guide pict
 
 Your kit should have included some heat sinks with it, this is to make sure we are not overheating some of the more sensitive Raspberry Pi 4 components when in use such as the CPU, the SDRAM, and the USB 3.0 controller. Below is an image of where these three heat sinks should go on the board.
 
-![Bare Rpi board w/ heatsinks]()
+![Bare Rpi board w/ heatsinks](BARE.png)
 
 ### Case
 
