@@ -16,7 +16,7 @@ Once you've done that, go to ELC and submit your username/email in text to the '
 Do this as soon as you can, so that you can start on the next section!
 
 ## Github Exercise
-After you've been assigned to a group, make sure you have set up your Github account and submitted your username to the assignment on ELC. Once you've done that, we will have an organization group invite sent to you as soon as groups are assigned from the CATME survey, likely NEW DATE HERE. To view and accept the organization group invite, go to the "Notifications" section on your Github home page. The icon should be in the upper right hand corner of the page, near your profile picture, and should look something like this:
+After you've been assigned to a group, make sure you have set up your Github account and submitted your username to the assignment on ELC. Once you've done that, we will have an organization group invite sent to you as soon as groups are assigned from the CATME survey. To view and accept the organization group invite, go to the "Notifications" section on your Github home page. The icon should be in the upper right hand corner of the page, near your profile picture, and should look something like this:
 
 
 
