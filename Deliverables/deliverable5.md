@@ -21,6 +21,6 @@ In summary, for this week you need to:
 
 1. **D:** Have proof of 3 mode inputs, (Figure Skating, Single Detect, Differentiate Source). 
 
-2. **D:** Physical Drawings, Your audio should be able to go in a straight line, a square, and a figure eight. 
+2. **D:** Physical Drawings, Your audio car should be able to go in a straight line, a square, and a figure eight. 
 
 3. Update your User Manual and Technical Documentation with your findings.
