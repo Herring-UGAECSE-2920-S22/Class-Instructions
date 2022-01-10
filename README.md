@@ -134,7 +134,7 @@ In order to encourage you to learn the useful skill of managing and using a Git/
 
 ### Car Chassis
 - Don’t drive it off a table. It is very fragile. It will break easily. 
-- 
+
 ### Class Discussion
 
 To facilitate class discussions, we will be using this repository’s **Issues** page to post comments or questions. This is a great place to ask general questions pertaining to the course and project. You are encouraged to join the discussion but just remember to abide by the “Collaboration Policy” detailed in the course syllabus. 
