@@ -15,7 +15,7 @@ Our objective is to keep your cost to a minimum. However, any additional compone
 
 There are three key objectives in this class which will be represented by deliverables throughout the semester. Each of which will be graded based on a rubric which will be provided to you. These objectives include drawing figures, detecting a single sound frequency and moving to it, and differentiating between three different frequencies and moving to each in order. Parameters for these objectives will be listed below.
 
-You should strive to make this work as closely to a finished product as possible, meaning doing sufficient bug testing, and making the product easy to setup/use. A part of this process is making sure your code runs on startup for the Raspberry Pi. A small writeup for how to do this can be [found here](../setup/launch-on-startup.md).
+You should strive to make this work as closely to a finished product as possible, meaning doing sufficient bug testing, and making the product easy to setup/use. A part of this process is making sure your code runs on startup for the Raspberry Pi. A small writeup for how to do this can be [found here](./setup/launch-on-startup.md).
 
 ### Drawing Figures (Deliverable 5)
 For the drawing figures checkpoint, your goal is to draw each of the required figures correctly. These are straight line, square, and figure 8 using the mode inputs. In your kit you will be provided a DIP switch which can be used to operate mode inputs by toggling 4 switches (See Project Description Document). In this checkpoint your car will be required to drive in a:
