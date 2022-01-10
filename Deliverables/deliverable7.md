@@ -1,8 +1,9 @@
 # Deliverable 7
 In this deliverable you will be testing out and showing your ability to use the Microphone as well as the Ultrasonic sensor. These components will allow you to recognize and move toward the frequencies at the end of this project.
 
-## Sound Detect(P)
 
+## Sound Detect(P)
+For this deliverable your task is to detect a single sound using your Microphone. 
 ## Ultrasonic Detect(P)
 
 ## Power Supply(P)
