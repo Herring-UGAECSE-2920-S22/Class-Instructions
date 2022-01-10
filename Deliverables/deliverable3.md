@@ -1,6 +1,6 @@
 # Deliverable 3
 
-For this week's deliverable, you'll be testing some of the functionality of your Raspberry Pi and additional hardware by using the DFRobot LCD Hat, the KY40 Rotary Encoders, and accessing it's GPIO. You'll also be creating an initial circuit diagram for your system.
+For this week's deliverable, you'll be testing some of the functionality of your Raspberry Pi and additional hardware. You'll also be using that hardware to get your motors moving and you microphone characterized.
 
 ## Verify Hardware (D)
 
@@ -23,6 +23,8 @@ While you're creating your GPIO input script, you'll notice that a simple pollin
 
 
 ## Wiggle Motors (D)
+
+Now that you know how to use your raspberry pi's GPIOs you now can use them to move your motors.
 
 First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time. 
 
