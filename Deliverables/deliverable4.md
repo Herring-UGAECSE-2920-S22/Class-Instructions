@@ -15,6 +15,11 @@ This deliverable will be very helpful as you progress through this project and a
 2. Pins that require power(voltage requirement and current requirement)
 3. Name of source delivering the required power (voltage and current)
  Along with the listing is a diagram (drawing) showing each source and each load with the voltage distribution drawn. This should be included in your documentation.
+ 
+ ## Next Design Steps
+ Although this is not a deliverable this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first check point refer to the [README](../README.md)and make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 aka Figure Drawing.
+ 
+ 
 
 # Summary
 
