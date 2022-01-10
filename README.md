@@ -64,7 +64,7 @@ For both documents, go to ELC and refer to the ECSE 2920 Spring 2022 Assessments
 
 - When submitting writing of any kind, make sure it's clear, concise, and overall decent to read. When formatting is necessary, you can assume 1.15 line spacing, and 12 pt Times New Roman or Calibri font.
 
-## Project Rules
+## Project Rules/Best Practices
 - Below is a set of rules to follow while working on this project in addition to any established on the syllabus. These are generally best practices for keeping your project organized and on track.
 
 ### Breadboard Wiring
@@ -95,6 +95,26 @@ In order to encourage you to learn the useful skill of managing and using a Git/
 
 - While mildly outlined in the PEP 8 document above, we'd like to reiterate that commenting your code is crucial to both the development and grading process. A good rule of thumb to follow is that a comment should *only* be added to answer a question that the code can't. In essence, if you follow the PEP 8 naming conventions and give your variables/objects meaningful names, it won't take very long to understand most code; in some ways, the code *becomes* the documentation. However, if you use a little optimization trick here, or implement a complicated operation/algorithm there, you should add a comment explaining your implementation or methodology.
 
+### Power
+- Don’t use the PI as a power bus. Power everything directly from the buck converter set to 5v.
+- Adjust the buck converter to ~ 5v before hooking it up to the hardware. After it is loaded down by the pi, h-bridges, etc readjust its output voltage to 5v.
+- Be careful not to short the power pins of the pi to other power pins or ground. That’ll kill em. 
+
+### Analog Audio Path
+- The output of the microphone is centered around 0v. 
+- An opamp can’t output any voltage close to its negative rail. 
+- Capacitors block DC voltage. 
+- Don’t limit your headroom with a 0-5v supply voltage when 0-12v is available.
+
+### ADC
+- Make sure you sample the peak of the input signal.
+
+### H-Bridge
+- There are separate logic supply and motor supply pins. Both can be at 5v. 
+
+### Car Chassis
+- Don’t drive it off a table. It is very fragile. It will break easily. 
+- 
 ### Class Discussion
 
 To facilitate class discussions, we will be using this repository’s **Issues** page to post comments or questions. This is a great place to ask general questions pertaining to the course and project. You are encouraged to join the discussion but just remember to abide by the “Collaboration Policy” detailed in the course syllabus. 
