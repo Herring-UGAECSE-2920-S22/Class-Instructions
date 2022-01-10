@@ -89,13 +89,16 @@ For both documents, go to ELC and refer to the ECSE 2920 Spring 2022 Assessments
 
 ### Breadboard Wiring
 
-When wiring up components with a breadboard it is crucial that your wires stay organized and distinguishable
+When wiring up components with a breadboard it is crucial that your wires stay organized and distinguishable. If you don’t follow these practices, you’re likely to screw up the wiring for your audio car often, which not only leads to frustration and wasted time, but could also be fatal for your more sensitive components such as the H-Bridge chip or the Raspberry Pi. If you follow these steps, you will be well on your way to avoiding the most common pitfalls:
 
 1. ### Use Clean Wiring
-- Keep your wiring clean. Avoid excessively long wires which make it impossible to trace if there is a problem and are more prone to pull out. You can either purchase wires that are pre-cut to different lengths or make them yourself. If you don’t follow these practices, you’re likely to screw up the wiring for your Audio Car often, which not only leads to frustration and wasted time, but could also be fatal for your more sensitive components such as the H-Bridge chip or the Raspberry Pi. If you follow these steps, you will be well on your way to avoiding the most common pitfalls:
+![wires](/Resources/WIREEX.png)
+- Keep your wiring clean. Avoid excessively long wires which make it impossible to trace if there is a problem and are more prone to pull out. You can either purchase wires that are pre-cut to different lengths or make them yourself. 
+
+
 
 2. ### Use Color Coding
- 
+![colorcode](/Resources/GPS.png)
 - Another tip is to organize your wires so that the color matches the circuit's electrical property. This will help you identify what types of wires are which when troubleshooting your breadboard circuits. The most common wire color coding is that all POWER wires should be RED, and all GROUND wires should be BLACK.
 
 - As you get more advanced, you can have different colors representing different voltage levels and functions. For example you can add a separate color for digital signals with 5V logic, and another for 3.3V.
