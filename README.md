@@ -32,6 +32,26 @@ For this checkpoint your car must  be able to detect a single sound frequency an
 Finally this checkpoint will be your final product, this is a combination of all you have done in the other two checkpoints while adding two more sound sources. Your car must be able to differentiate three different frequencies which are playing simultaneously.  Your car must identify and move to each frequency source in the correct order and without hitting the source. 
 
 - The set up and objective of this checkpoint is as follows: The three sound sources will be positioned within 3-5 feet of the starting position of the car (placed by grader).  The car will identify and find the sound sources in order (A, B, C).  The car front of the car must be within 4 inches of the sound source and stop.  After stopping, the car will find the next sound source in sequence.
+
+All of the above checkpoints will be required to be controlled by toggle switches
+### Input Mode for Commands
+Your only input mode for the car is a set of 4 toggle switches using this table:
+NOTE: You should look at hysteresis techniques in software and/or hardware when using switches.
+
+ 
+Bit3: Go/No Go.  A good design will have hysteresis on this switch.
+Bit=0: This allows you to change settings on the other bits and the environment while power is applied to the car.  In this mode, the car does nothing but is ready to “go”
+Bit=1: This  tells the car to perform the function identified by the other switches and the environment.  When going from a “0” to a “1,” the car should wait 3 seconds before responding. 
+
+When testing you can expect the following standards and restrictions for the sound in puts;
+### Sound inputs
+The frequencies of interest are:
+- 500 Hz sine wave
+- 2KHz sine wave
+- 8KHz sine wave
+The volume energy of each sound is sufficient so that your car can find the sound within 5 feet from any position from your car’s starting point.
+You may use a phone as a sound source.  There are many apps available for this.  You can also use a portable speaker/amplifier if you’d like.  It is up to your team to decide this.
+
 ### Documentation Expectations
 
 Your project will have two required documents: 
