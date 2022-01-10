@@ -30,4 +30,3 @@ In summary, for this week you need to:
 2. **P:** Draw and describe your power diagram and program GPIOs
 
 3. Update your User Manual and Technical Documentation with your findings.
-4. 
