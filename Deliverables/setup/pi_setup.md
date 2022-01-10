@@ -1,6 +1,6 @@
 # Initial Setup
 
-This section goes through the one-time setup students will need to perform upon receiving their kits. Please be aware you may not have to complete the ***Raspberry Pi OS Installation if you have a previously used pi. You can tell if you have a previously used by by connecting your pi using a monitor, keyboard, and mouse, you will see this(wallpaper may vary) upon startup.
+This section goes through the one-time setup students will need to perform upon receiving their kits. Please be aware you may not have to complete the ***Raspberry Pi OS Installation*** if you have a previously used pi. You can tell if you have a previously used by by connecting your pi using a monitor, keyboard, and mouse, you will see this(wallpaper may vary) upon startup.
 
 ![pic](RPW.png)
 
@@ -36,79 +36,18 @@ At this stage, it would be wise to attach the small fan to the lid of the case a
 
 Now, we'll go through the OS installation, and make sure our Python environment is correctly configured with all of the software dependencies you'll need for the project.
 
-### Raspbian Installation
+### Raspberry Pi OS Installation
 
-To install Raspbian, we'll need to boot up the Pi for first-time setup. If you don't have a keyboard, mouse, and monitor available to you for this first time setup, please refer to the 'Headless setup' section below, and if you do have access to them, refer to the 'Desktop setup' section.
+To install Raspberry Pi OS Installation, we'll need to boot up the Pi for first-time setup. Below you will find the link to a guide for the first time set up of your Raspberry pi if it is new.
 
-#### Headless Setup
 
-When doing a headless installation, you'll need to manually install Raspbian on the SD card that came with the Pi. When installing Raspbian directly on the SD card, you'll need to do a simple step to enable SSH before booting up your Pi and logging in. This ensures that you can access with Pi without ever having to connect it to a keyboard/mouse/monitor.
+### Raspberry Pi OS Configuration
 
-To begin, insert the microSD card into the included USB adapter by simply sliding it all the way into the upper portion of the adapter as shown below:
-
-![SD Card Reader](resources/SDcardreader.jpg)
-
-Then, insert it into on of your computers USB ports.
-
-From here, you'll need to follow the directions for your operating system under the 'Using other Tools' section of [this guide by the Raspberry Pi foundation](https://www.raspberrypi.org/documentation/installation/installing-images/).
-
-> Note: DO NOT USE the Raspberry Pi Imager software at the top of the page. In our experience it is not as reliable as the individual solutions for each operating system.
-> Also Note: When choosing the Raspbian version to download [here](https://www.raspberrypi.org/software/operating-systems/), ***make sure to download Raspberry Pi OS Lite***, as this ensure you'll be able to configure Networking and SSH before booting the Pi itself.
-
-When your SD card is done imaging, open up the `boot` partition of the SD card and create an empty file named `ssh` with no file extension. This will enable SSH on boot for the Raspberry Pi. Also, You'll need to set up some networking settings by creating a file named `wpa_supplicant.conf` in the same directory and pasting the following into it:
-
-```
-ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
-update_config=1
-country=US
-```
-
-If you want to use a home WiFi network to work on the Pi (Not PAWS-Secure, or any other community internet), you'll also need to add the following lines at the bottom of the file:
-```
-network={
-     ssid="«your_SSID»"
-     psk="«your_PSK»"
-     key_mgmt=WPA-PSK
-}
-```
-
-With «your_SSID» replaced by your home network name, and «your_PSK» replaced by the password.
-
-If you don't have access to a home WiFi network, you'll need to use an ethernet bridge to share your WiFi connection from your computer to the Pi. To set one up, go through the [Networking](#networking) section below.
-
-When you've done that, you're good to insert the microSD card into its slot on the Pi and power it with the USB-C adapter! The Pi will boot right into Raspbian with SSH enabled so that you can continue doing the setup without a keyboard/mouse/monitor. 
-
-To continue setup, connect to the Pi via SSH by following the [SSH section below](#ssh-and-vnc-viewer).
-
-If you think you would like to use VNC Viewer to work on the Pi, or if you plan on being able to use the Pi with a monitor in the future, you'll need to install the Raspbian Desktop Environment now. To do so, you can [follow this guide](https://raspberrytips.com/upgrade-raspbian-lite-to-desktop/), making sure to use the PIXEL desktop environment, as it's the most optimized for the Raspberry Pi, reducing the performance impacts felt by your plotter program!
-
-#### Desktop setup
-
-First, make sure the included microSD card is in its slot as show below:
-
-![SD Card Slot](resources/sdslot.jpg)
-
-Then, use the miniHDMI to HDMI adapter to connect the Pi to a monitor, and connect a mouse and keyboard as well, you'll need it. Finally, plug in the USB Type C power supply, which will power on the Pi.
-
-The included microSD card comes installed with a OS installation utility called NOOBS, which comes pre-configured with an image of Raspbian OS, a debian-based distribution of Linux built specifically for the Raspberry Pi. When you boot up the Pi for the first time, you'll be greeted by the following splash screen:
-
-![NOOBS splash 1](resources/noobs1.jpg)
-
-Go ahead and check the box next to the Raspbian OS option, and click install to begin the installation process. A warning will come up, just hit yes on the dialogue box.
-
-![NOOBS splash 2](resources/noobs2.jpg)
-
-After Raspbian is installed, the Pi should reboot into initial setup for the Operating System, this process is pretty straight forward, just follow the on-screen instructions, and make a note of the username and password for the Pi, we'll need this information fairly often. Note: skip the WiFi and update sections for now, we'll set up the networking in the next section.
-
-After setup, Raspbian will prompt a restart, go ahead and do this.
-
-### Raspbian Configuration
-
-Now that you've got Raspbian installed, we need to do a bit of configuration to enable all of the settings we need.
+Now that you've got Raspberry Pi OS installed, we need to do a bit of configuration to enable all of the settings we need.
 
 On the Pi desktop (or in an SSH terminal), open a terminal window from the task bar, it should look something like this:
 
-![raspi terminal image](resources/raspiconf0.png)
+![raspi terminal image](TERMINAL.png)
 
 Then, run the `raspi-config` command to configure some settings on the Pi:
 
@@ -118,7 +57,7 @@ sudo raspi-config
 
 It should bring up a dialogue window that looks similar to this:
 
-![raspi-config window](resources/raspiconf1.png)
+![raspi-config window](CONFIG.png)
 
 From here, we need to change a few settings: 
 
