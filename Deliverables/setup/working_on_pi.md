@@ -58,15 +58,15 @@ If you're using VNC Viewer, and you want to use the built-in Python IDE Thonny, 
 
 First open up Thonny on your Raspberry Pi and navigate to **Tools** -> **Options** and go to the **Interpreter** tab. If you can't see the **Tools** option, click on `switch to regular mode` and reboot Thonny:
 
-![Interpreter Tab](./resources/thonny1.png)
+![Interpreter Tab](WOP1.png)
 
 Under the *Which interpreter or device should Thonny use for running your code?* option, select `Alternative Python 3 interpreter or virtual environment` and select the `...` next to the *Python Executable* field:
 
-![Alternative Interpreter Field](./resources/thonny2.png)
+![Alternative Interpreter Field](WOP2.png)
 
 Then, in the file explorer, navigate to `/home/pi/.virtualenvs/plotter/bin/` and select the file `python3.7`. If you can't see the `.virtualenvs` directory in `/home/pi/` right-click on some empty space in the window and check the *show hidden files* box:
 
-![Python Interpreter Location](./resources/thonny3.png)
+![Python Interpreter Location](WOP3.png)
 
 You should now be set up to work on your code in your created Python virtual environment!
 
