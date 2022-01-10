@@ -8,7 +8,7 @@ When working on this project, you have a couple of options for how you want to m
 In either case, you should regularly back up your work using Git and Github so you and your teammates can stay up to date on the progress of your project.
 
 ## Connecting to PAWS secure from Raspberry Pi
-Using a University Wifi with a raspberry pi isn't always possible due to its SSO secure login. [Here](https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out) are some resources to work around this. Another option is to use a personal hotspot if the resources do not work for you. There are mutliple ways to solve this problem so you can try different things.
+Using a University Wifi with a raspberry pi isn't always possible due to its SSO secure login. [Here](https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out) are some resources to work around this. Another option is to use a personal hotspot or an ethernet cord if the resources do not work for you. There are mutliple ways to solve this problem so you can try different things.
 
 ## Working Directly on the Pi (SSH/SSHFS, VNC, and MobaXterm)
 
