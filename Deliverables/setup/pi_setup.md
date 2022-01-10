@@ -1,6 +1,8 @@
 # Initial Setup
 
-This section goes through the one-time setup students will need to perform upon receiving their kits.
+This section goes through the one-time setup students will need to perform upon receiving their kits. Please be aware you may not have to complete the ***Raspberry Pi OS Installation if you have a previously used pi. You can tell if you have a previously used by by connecting your pi using a monitor, keyboard, and mouse, you will see this(wallpaper may vary) upon startup.
+
+![pic](RPW.png)
 
 ## Hardware
 
