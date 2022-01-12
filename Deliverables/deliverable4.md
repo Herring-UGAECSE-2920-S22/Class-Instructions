@@ -11,13 +11,14 @@ This deliverable will be very helpful as you progress through this project and a
 - For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
  
 - For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
-1. Name of the Device
-2. Pins that require power(voltage requirement and current requirement)
-3. Name of source delivering the required power (voltage and current)
+          1. Name of the Device
+          2. Pins that require power(voltage requirement and current requirement)
+          3. Name of source delivering the required power (voltage and current)
+          
  Along with the listing is a diagram (drawing) showing each source and each load with the voltage distribution drawn. This should be included in your documentation.
  
  ## Next Design Steps
- Although this is not a deliverable this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first check point refer to the [README](../README.md)and make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 aka Figure Drawing.
+ Although this is not a deliverable this week is a great time to begin brainstorming and documenting ideas of how you all can complete the first check point refer to the [README](../README.md) and make sure you understand the checkpoint and that your team is prepared and has enough time to complete deliverable 5 aka Figure Drawing.
  
  
 
