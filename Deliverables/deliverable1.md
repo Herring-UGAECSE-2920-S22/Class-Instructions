@@ -31,7 +31,7 @@ When you've got Git and Python set up, clone your group Git repository somewhere
 git clone [SSH Address]
 ```
 
-![notification](GITADD.png)
+![notification](images/GITADD.png)
 When you have the repository cloned, create a Python script under a directory named `HelloWorldScripts` with the file name being `firstname_lastname.py` replacing `firstname` with your first name and `lastname` with your last name.
 
 In the script, simply print your full name and exit. When done, make sure to save your changes and 'push' them to Github by following [this](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line) guide.
