@@ -1,6 +1,20 @@
 # Deliverable 5
 
-For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) for more information.
+For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refer back to the [README](../README.md) for more information.
 
 ## Complete Mode Inputs for Figure Drawing(D)
 By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the draweing without having to connect to the pi using a monitor.
