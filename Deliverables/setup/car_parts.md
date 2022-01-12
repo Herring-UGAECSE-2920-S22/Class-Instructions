@@ -6,7 +6,7 @@ In this document, students will find all parts included in their hardware kits a
 
 Inside you hardware kit you should have the following parts:
 
-![PartList](../images/PartList.jpg)
+![PartList](../images/PartList.png)
 
 There are a few parts that you should check to see if they are in working condition those parts include:
 
