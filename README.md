@@ -17,7 +17,19 @@ There are three key objectives in this class which will be represented by delive
 
 You should strive to make this work as closely to a finished product as possible, meaning doing sufficient bug testing, and making the product easy to setup/use. A part of this process is making sure your code runs on startup for the Raspberry Pi. A small writeup for how to do this can be [found here](Deliverables/setup/launch-on-startup.md).
 
-### Drawing Figures (Deliverable 5)
+### Input Mode for Commands(Deliverable 5a)
+Your only input mode for the car is a set of 4 toggle switches using this table:
+NOTE: You should look at hysteresis techniques in software and/or hardware when using switches.
+
+![mode](Deliverables/images/ModeIN.png)
+ 
+Bit3: Go/No Go.  A good design will have hysteresis on this switch.
+Bit=0: This allows you to change settings on the other bits and the environment while power is applied to the car.  In this mode, the car does nothing but is ready to “go”
+Bit=1: This  tells the car to perform the function identified by the other switches and the environment.  When going from a “0” to a “1,” the car should wait 3 seconds before responding. 
+
+All of the below checkpoints will be required to be controlled by toggle switches
+
+### Drawing Figures (Deliverable 5b)
 For the drawing figures checkpoint, your goal is to draw each of the required figures correctly. These are straight line, square, and figure 8 using the mode inputs. In your kit you will be provided a DIP switch which can be used to operate mode inputs by toggling 4 switches (See Project Description Document). In this checkpoint your car will be required to drive in a:
 
 - **Straight Line:**  The car will move 3 feet in a straight line and stop.
@@ -33,17 +45,9 @@ Finally this checkpoint will be your final product, this is a combination of all
 
 - The set up and objective of this checkpoint is as follows: The three sound sources will be positioned within 3-5 feet of the starting position of the car (placed by grader).  The car will identify and find the sound sources in order (A, B, C).  The car front of the car must be within 4 inches of the sound source and stop.  After stopping, the car will find the next sound source in sequence.
 
-All of the above checkpoints will be required to be controlled by toggle switches
-### Input Mode for Commands
-Your only input mode for the car is a set of 4 toggle switches using this table:
-NOTE: You should look at hysteresis techniques in software and/or hardware when using switches.
 
- 
-Bit3: Go/No Go.  A good design will have hysteresis on this switch.
-Bit=0: This allows you to change settings on the other bits and the environment while power is applied to the car.  In this mode, the car does nothing but is ready to “go”
-Bit=1: This  tells the car to perform the function identified by the other switches and the environment.  When going from a “0” to a “1,” the car should wait 3 seconds before responding. 
 
-When testing you can expect the following standards and restrictions for the sound in puts;
+When testing you can expect the following standards and restrictions for the sound in puts
 ### Sound inputs
 The frequencies of interest are:
 - 500 Hz sine wave
