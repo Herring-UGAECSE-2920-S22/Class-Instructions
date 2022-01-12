@@ -16,7 +16,7 @@ Another option is to use a personal hotspot or an ethernet cord if the resources
 
 ## Working Directly on the Pi (SSH/SSHFS, VNC, and MobaXterm)
 
-When possible, you should prefer to work directly on your Raspberry Pi, as it will make prototyping and debugging your XY Plotter a bit faster and easier. We understand this is not always possible, but it is the preffered way to complete this project, as it allows your team to get real-time feedback for your software.
+When possible, you should prefer to work directly on your Raspberry Pi, as it will make prototyping and debugging your Audio Car a bit faster and easier. We understand this is not always possible, but it is the preffered way to complete this project, as it allows your team to get real-time feedback for your software.
 
 Below we've provided instructions for three methods of working directly on your Raspberry Pi, assuming your personal computer is connected on the same network (or via an Ethernet Bridge) as the Pi and that you have the IP Address of the Pi on the network.
 
