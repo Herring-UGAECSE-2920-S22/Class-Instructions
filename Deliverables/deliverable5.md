@@ -1,23 +1,17 @@
 # Deliverable 5
 
-For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. 
+For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) for more information.
 
+## Complete Mode Inputs for Figure Drawing(D)
+By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the drawing without having to connect to the pi using a monitor.
 
-
-
+For this deliverable your team will be required to set up modes for your Audio Car these modes will correlate with 4 switches on the dip switches we provided you all. Here is a key of how those switches/modes will work:
 
 ![ModeIN](images/ModeIN.png)
 
+The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
-
-
-
-
-
-Refer back to the [README](../README.md) for more information.
-
-## Complete Mode Inputs for Figure Drawing(D)
-By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the draweing without having to connect to the pi using a monitor.
+**NOTE:**  You should look at hysteresis techniques in software and/or hardware when using switches.
 
 
 ## Complete Figure Drawing(D)
