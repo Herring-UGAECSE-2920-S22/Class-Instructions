@@ -23,9 +23,13 @@ NOTE: You should look at hysteresis techniques in software and/or hardware when 
 
 ![mode](Deliverables/images/ModeIN.png)
  
-Bit3: Go/No Go.  A good design will have hysteresis on this switch.
-Bit=0: This allows you to change settings on the other bits and the environment while power is applied to the car.  In this mode, the car does nothing but is ready to “go”
-Bit=1: This  tells the car to perform the function identified by the other switches and the environment.  When going from a “0” to a “1,” the car should wait 3 seconds before responding. 
+- Bit3: Go/No Go.  A good design will have hysteresis on this switch.
+-
+- Bit=0: This allows you to change settings on the other bits and the environment while power is applied to the car.  In this mode, the car does nothing but is ready to “go”
+-
+- Bit 2: This tells the car and the programmer whether or not they are completing a sound detect task or a figure drawing task.
+-
+- Bit=1: This  tells the car to perform the function identified by the other switches and the environment.  When going from a “0” to a “1,” the car should wait 3 seconds before responding. 
 
 All of the below checkpoints will be required to be controlled by toggle switches
 
