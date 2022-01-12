@@ -8,7 +8,7 @@ Inside you hardware kit you should have the following parts:
 
 ![PartList](../images/PartList.png)
 
-There are a few parts that you should check to see if they are in working condition those parts include:
+There are a few parts that you should check to see if they are in working condition a few of those parts include:
 
 1. Raspberry Pi - Check functionality by following the raspberry pi set up found in the deliverable instructions
 
