@@ -1,6 +1,6 @@
 # Deliverable 5a & 5b
 
-For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) for more information. 
+For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) for more information. There are two big deliverables this week please complete them in order because they will be graded in order 5a is being checked on Monday and 5b on Wednsday.
 
 # Deliverable 5a
 ## Complete Mode Inputs for Figure Drawing(D)
