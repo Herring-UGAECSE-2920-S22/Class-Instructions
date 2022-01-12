@@ -1,7 +1,8 @@
-# Deliverable 5
+# Deliverable 5a & 5b
 
-For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) for more information.
+For deliverable 5, you will be taking on your first checkpoint. In this deliverable we will be doing in class checks of the mode inputs(autonomus pi) as well as the Figure drawing(straight line, square, figure 8). Below you will find the resources you may need as well as the description of the deliverable. Refer back to the [README](../README.md) for more information. 
 
+# Deliverable 5a
 ## Complete Mode Inputs for Figure Drawing(D)
 By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the drawing without having to connect to the pi using a monitor.
 
@@ -13,7 +14,7 @@ The user will toggle a set of 4 switches using the table above. For this deliver
 
 **NOTE:**  You should look at hysteresis techniques in software and/or hardware when using switches.
 
-
+# Deliverable 5b
 ## Complete Figure Drawing(D)
 This means not only getting the car moving in a straight line, square, and figure eight. This delieverable will also call for you all to create a transfer function that will allow both motors to run at the same rate. You will be tested on the accuracy of you previous transfer function along with the accuracy of the straight line, square, and figure eight.
 
