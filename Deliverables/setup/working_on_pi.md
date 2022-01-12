@@ -64,7 +64,7 @@ Under the *Which interpreter or device should Thonny use for running your code?*
 
 ![Alternative Interpreter Field](WOP2.png)
 
-Then, in the file explorer, navigate to `/home/pi/.virtualenvs/audiocar/bin/` and select the file `python3.7`. If you can't see the `.virtualenvs` directory in `/home/pi/` right-click on some empty space in the window and check the *show hidden files* box:
+Then, in the file explorer, navigate to `/home/pi/.virtualenvs/audiocar/bin/` **file path may be different** Ex(/home/pi/.virtualenvs/plotter/bin/)and select the file `python3.7`. If you can't see the `.virtualenvs` directory in `/home/pi/` right-click on some empty space in the window and check the *show hidden files* box:
 
 ![Python Interpreter Location](WOP3.png)
 
