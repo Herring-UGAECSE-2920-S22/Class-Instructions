@@ -6,7 +6,7 @@ For deliverable 5, you will be taking on your first checkpoint. In this delivera
 
 
 
-![ModeIN](images/ModeIn)
+![ModeIN](images/ModeIN.png)
 
 
 
