@@ -28,7 +28,7 @@ Now that you know how to use your raspberry pi's GPIOs you now can use them to m
 
 First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time. 
 
-
+**Hint:** Although it is not necessary for this deliverable it may be a good idea to check out speed control or PWM and Duty Cycle for GPIOs.
 
 **Hint**: Take a look at [python multithreading](https://realpython.com/intro-to-python-threading/) in order to protect your program as you run methods for both motors.
 
