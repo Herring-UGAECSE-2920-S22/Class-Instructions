@@ -1,6 +1,6 @@
 # Deliverable 2
 
-For this week, completing a syllabus quiz, you'll be creating a team attendance sheet, documenting the state of existing hardware you have recieved and going through the preliminary setup for the Raspberry Pi hardware. 
+For this week, completing a syllabus quiz, documenting the state of existing hardware you have recieved and going through the preliminary setup for the Raspberry Pi hardware. 
 
 Right now would also be a good time to read through the rules for the project outlined [in the README](../README.md) for this repository.
  
