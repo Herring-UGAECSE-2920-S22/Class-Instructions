@@ -4,7 +4,8 @@ For this week's deliverable, you'll be testing some of the functionality of your
 
 ## Verify Hardware (D)
 
-As a continuation from last week, using your [hardware list](./images/PartList.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled our status sheet for your parts and submit any complaints about missing or faulty parts on ELC.
+
+As a continuation from last week, using your [hardware list](https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/files/7901119/ECSE.2920.Spring.2022.Student.Part.List.xlsx) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled our status sheet for your parts and submit any complaints about missing or faulty parts on ELC.
 
 
 ## Accessing and Using A GPIO 
