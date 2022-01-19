@@ -52,6 +52,8 @@ TURN IN: One short video(10 seconds or less preferably) of your team turning the
 
 # Summary of Tasks:
 Generate a 2kHz audio signal using your phone, show the spike using the spectrum analyzer, use that same sound to characterize your microphone and turn in proof of all this on ELC via video.
+
+>***Warning: All photo/video files should not be in .HEIC or .MOV. Best formats are .jpg and .mp4 respectively.
 # Summary
 
 In summary, for this week you need to:
