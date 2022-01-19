@@ -18,4 +18,6 @@ A flat plot that starts at 0dB and rises +1 dB at ~5 Khz probably means the prob
 If the plot looks kinda like a janky polygraph make sure the “GEN OUT” bnc jack is connected to the input of your circuit. 
 
 
+![SPEC](SPEC.png)
+
 More info on [page 95](https://bkpmedia.s3.amazonaws.com/downloads/manuals/en-us/2540C_series_manual.pdf). 
