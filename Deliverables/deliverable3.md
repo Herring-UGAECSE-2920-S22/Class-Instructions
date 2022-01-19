@@ -51,7 +51,8 @@ For this deliverable the goal is to characterize your microphone. This means adj
 
 
 # Summary of Tasks:
-Generate a 2kHz audio signal using your phone, show the spike using the spectrum analyzer, use that same sound to characterize your microphone and turn in proof of all this on ELC via video.
+- Get your motors moving using your raspberry pi and your h-bridge show this using a video to be turned in on ELC.
+- Generate a 2kHz audio signal using your phone, show the spike using the spectrum analyzer, use that same sound to characterize your microphone and turn in proof of all this on ELC via video.
 
 >***Warning: All photo/video files should not be in .HEIC or .MOV. Best formats are .jpg and .mp4 respectively.***
 # Summary
