@@ -26,6 +26,8 @@ While you're creating your GPIO input script, you'll notice that a simple pollin
 
 Now that you know how to use your raspberry pi's GPIOs you now can use them to move your motors.
 
+In addition to that you will find the SN754410 chip in your kit. This is a Quadruple Half H-Driver better known as a H-Bridge. You will need this to drive your motors, check out the data sheet for this chip [here](https://www.sparkfun.com/datasheets/IC/SN754410.pdf) 
+
 First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time.
 
 TURN IN: A short video showing the basic motor features to be turned in on ELC. We will also be looking at your github for the code working your H-bridge and motor together.
@@ -37,13 +39,19 @@ To accomplish this you willl need to know how to **access and use a GPIO**
 ## Spectrum Analyzer (D)
 If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document](./setup/spectrum_instr.md) in order to help characterize your Mic or anything else you may want to use it for. 
 
-TURN IN: 
+TURN IN: One short video(10 seconds or less preferably) of a 2kHz sine wave showing a spike at that sound.
+
+
 
 ## Characterize Microphone(D)
 
 For this deliverable the goal is to characterize your microphone. This means adjusting the gain(sensitivity) to your desired level. As well as testing to see what exactly your desired level is. In result you should have and LED circuit that lights up when the Microphone is picking up your sound how you want it to, as well as turning off when that sound is not in your range.
 
+TURN IN: One short video(10 seconds or less preferably) of your team turning the gain on your mic both up and down using a 2kHz.
 
+
+# Summary of Tasks:
+Generate a 2kHz audio signal using your phone, show the spike using the spectrum analyzer, use that same sound to characterize your microphone and turn in proof of all this on ELC via video.
 # Summary
 
 In summary, for this week you need to:
