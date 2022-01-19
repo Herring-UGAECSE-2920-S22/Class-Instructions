@@ -26,7 +26,9 @@ While you're creating your GPIO input script, you'll notice that a simple pollin
 
 Now that you know how to use your raspberry pi's GPIOs you now can use them to move your motors.
 
-First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time. 
+First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time.
+
+TURN IN: A short video showing the basic motor features to be turned in on ELC. We will also be looking at your github for the code working your H-bridge and motor together.
 
 **Hint**: Take a look at [python multithreading](https://realpython.com/intro-to-python-threading/) in order to protect your program as you run methods for both motors.
 
@@ -34,6 +36,8 @@ To accomplish this you willl need to know how to **access and use a GPIO**
 
 ## Spectrum Analyzer (D)
 If you have not used one before a Spectrum Analyzer is an instrument used to measure the magnitude of an input signal versus frequency within the full frquency range of the instrument. The primary use is to measure the power of the spectrum of known and unknown signals. For this deliverable you will use a Spectrum Analyzer (Can be found in room 1450) as you follow the instructions in this [document](./setup/spectrum_instr.md) in order to help characterize your Mic or anything else you may want to use it for. 
+
+TURN IN: 
 
 ## Characterize Microphone(D)
 
