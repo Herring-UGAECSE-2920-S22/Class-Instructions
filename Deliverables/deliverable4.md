@@ -5,12 +5,14 @@ For deliverable 4, you will be programming your audio car's motors to be used at
 ## Transfer Function (P)
 Once you have both of your motors moving, you may have noticed that they do not move at the same rate of speed. In this deliverable you will fix this. You will need to use your optical encoders along with the to calculate a transfer function that will get both of your DC motors moving at the same RPM. You can test this by running your car in a straight line and making sure it does not veer to the left or to the right. 
 
+**TURN IN**: A document including the transfer function, how you got it, why it is what it is, and how you used it to make your motors run at the same speed.
+
 ## GPIO Diagram and Power Diagram (P)
 This deliverable will be very helpful as you progress through this project and add more parts, use more GPIOs and start to use your raspberry pi to its full potential.
 
-- For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
+-**TURN IN**: For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
  
-- For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
+- **TURN IN**: For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
           1. Name of the Device
           2. Pins that require power(voltage requirement and current requirement)
           3. Name of source delivering the required power (voltage and current)
