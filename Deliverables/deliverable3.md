@@ -4,7 +4,7 @@ For this week's deliverable, you'll be testing some of the functionality of your
 
 ## Verify Hardware (D)
 
-As a continuation from last week, using your [hardware list](./images/PartList.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled our status sheet for your parts.
+As a continuation from last week, using your [hardware list](./images/PartList.png) check all the parts in your kit and make sure you not only have them but they are in working condition this will be important as you begin your project and at the end when you return the kits. Please turn in a filled our status sheet for your parts and submit any complaints about missing or faulty parts on ELC.
 
 
 ## Accessing and Using A GPIO 
@@ -44,7 +44,7 @@ For this deliverable the goal is to characterize your microphone. This means adj
 
 In summary, for this week you need to:
 
-1. **D**: Make sure all your hardware is in your kit and is in working shapes and fill out the parts checklist
+1. **D**: Make sure all your hardware is in your kit and is in working shapes and fill out the parts checklist 
 
 2. **D**: Wiggle your DC Motors(forward, backward, and one by one).
 
