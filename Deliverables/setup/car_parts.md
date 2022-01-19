@@ -2,6 +2,12 @@
 
 In this document, students will find all parts included in their hardware kits along with some of the functions of the parts.
 
+<img width="303" alt="Screen Shot 2022-01-19 at 6 19 32 PM" src="https://user-images.githubusercontent.com/49916015/150233947-483f55fb-2df2-4bf2-a848-68fe171a00bb.png">
+
+
+Links for these can be found on [this](https://github.com/Herring-UGAECSE-2920-S22/Class-Instructions/files/7901130/ECSE.2920.Spring.2022.Student.Part.List.xlsx) document
+
+
 ## Verify Existing Behavior
 
 Inside you hardware kit you should have the following parts:
