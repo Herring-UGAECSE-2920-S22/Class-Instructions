@@ -26,7 +26,7 @@ While you're creating your GPIO input script, you'll notice that a simple pollin
 
 Now that you know how to use your raspberry pi's GPIOs you now can use them to move your motors.
 
-In addition to that you will find the SN754410 chip in your kit. This is a Quadruple Half H-Driver better known as a H-Bridge. You will need this to drive your motors, check out the data sheet for this chip [here](https://www.sparkfun.com/datasheets/IC/SN754410.pdf) 
+In addition to that you will find the SN754410 chip in your kit. This is a Quadruple Half H-Driver better known as a H-Bridge. You will need this to drive your motors, check out the data sheet for this chip [here](https://www.ti.com/lit/ds/symlink/sn754410.pdf) 
 
 First, you'll need to demonstrate that you can take advantage of some of the basic motor features necessary for creating a functional audio car. This means getting your motors to move. So create a program and wire up your motors to demonstrate both motors moving forward and backward and also one motor moving at a time.
 
