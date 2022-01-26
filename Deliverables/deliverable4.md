@@ -12,7 +12,7 @@ Once you have both of your motors moving, you may have noticed that they do not 
 ## GPIO Diagram and Power Diagram (P)
 This deliverable will be very helpful as you progress through this project and add more parts, use more GPIOs and start to use your raspberry pi to its full potential.
 
--**TURN IN-On ELC**: For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
+-**TURN IN-On ELC**: For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project, default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO. In this document please also include an explaination of pull up and pull down resistors and how they can be used, relate to your audio car.
  
 -**TURN IN-On ELC**: For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
           1. Name of the Device
