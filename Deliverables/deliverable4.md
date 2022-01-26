@@ -12,7 +12,7 @@ This deliverable will be very helpful as you progress through this project and a
 
 -**TURN IN**: For the **GPIO Diagram** at minimum teams must create a diagram, chart, table, or some way to indicate: GPIO names on PI, Functional name for project default start at power up, state used for project, pull up or pull down (if any), and switch needed to set GPIO.
  
-- **TURN IN**: For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
+-**TURN IN**: For the **Power Diagram** at minimum teams must create a diagram, chart, table, or some way to list each device that requires power on the design including the:
           1. Name of the Device
           2. Pins that require power(voltage requirement and current requirement)
           3. Name of source delivering the required power (voltage and current)
