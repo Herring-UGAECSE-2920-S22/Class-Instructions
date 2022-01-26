@@ -8,7 +8,10 @@ For this part of the deliverable your task is to detect a single sound using you
 ## Ultrasonic Detect(P)
 This part will be similar to the one before, your task is to test your ultrasonic sensor and be able to detect when an object is within 4 inches of your car, you will need this capability for the final checkpoint.(Refer to the Project Description Document for more information).
 
+
+
 ## Power Supply(P)
+
 # Summary
 
 In summary, for this week you need to:
