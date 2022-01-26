@@ -12,7 +12,8 @@ For this deliverable your team will be required to set up modes for your Audio C
 
 The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
-**TURN IN-On ELC**: A short video showing at least the 3 modes needed for Figure Drawing. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. 
+**TURN IN-On ELC**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. 
+
 **NOTE:**  You should look at hysteresis techniques in software and/or hardware when using switches.
 
 # Deliverable 5b
