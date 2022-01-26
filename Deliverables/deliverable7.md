@@ -13,7 +13,7 @@ This part will be similar to the one before, your task is to test your ultrasoni
 **TURN IN-On ELC**: A short video showing that your Ultrasonic Sensor responds objects presented to it and how close those objects are. Use LEDs to show how close the object is to the sensor(**HINT:** Closer the object more LEDs lit).
 
 ## Power Supply(P)
-Design the best power supply for your Audio Car System. 
+Design the best power supply for your Audio Car System. **Constraints to come**
 # Summary
 
 In summary, for this week you need to:
