@@ -6,8 +6,11 @@ For deliverable 6, you will begin moving forward from your first check point and
 For this Deliverable your team will be required to dive into your filter design for your Audio car. You must create a paper design of your filter idea and follow that up with a 
 multisim design that includes a Bode Plot. This will be your first step to designing your filter please document this process and the logic behind your design.
 
+**TURN IN-On ELC**: 
 ## Recheck Deliverable 5
 If you have not passed the Chekpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your car to class if you wish you get the checkpoint rechecked.
+
+**TURN IN-On ELC**: If you have not passed this checkpoint you can upload a short video showing Deliverable 5a & 5b Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design.
 
 
 # Summary
