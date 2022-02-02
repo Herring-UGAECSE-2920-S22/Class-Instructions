@@ -12,7 +12,7 @@ For this deliverable your team will be required to set up modes for your Audio C
 
 The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
-**TURN IN-On ELC**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. 
+**TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. 
 
 **NOTE:**  You should look at hysteresis techniques in software and/or hardware when using switches.
 
@@ -26,7 +26,7 @@ This deliverable will be tested using the following guidlines:
 - Square: The car will drive in a square that is 3 feet on each side 2 times and stop.
 - Figure 8: The car will drive in a figure 8 pattern two times and stop.  The two straight center lines of the figure 8 will be 3 feet long. 
 - 
-**TURN IN-On ELC**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design.
+**TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design.
 
 **D:** As a part of this deliverable we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
