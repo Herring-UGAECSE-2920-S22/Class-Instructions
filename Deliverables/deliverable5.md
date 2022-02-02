@@ -28,7 +28,7 @@ This deliverable will be tested using the following guidlines:
 - 
 **TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5b will happen in class on 2/9/2022.
 
-**D:** As a part of this deliverable we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
+**D:** As a part of this deliverable both 5a and 5b we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
 ## Finish Documentation for Figure Drawing/Mode Inputs
 
