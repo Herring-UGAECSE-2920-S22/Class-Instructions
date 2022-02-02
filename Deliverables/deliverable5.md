@@ -10,6 +10,9 @@ For this deliverable your team will be required to set up modes for your Audio C
 
 ![ModeIN](images/ModeIN.png)
 
+
+**Functionality of Bit 3**: Bit 3 allows you to change the program setup for the car in a stopped/quiet condition.  When ready, Bit 3 tells the PI to “go”.  You should change Bit 3 first before changing other programming modes.  That is, turn Bit 3 off when you want to change the modes.  Turn Bit 3 on when you want the car to do something. 
+
 The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
 **TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with four LEDs that light equivalently to the chart above, Bit 3 should be a Red LED. We will be checking for the Autostart, The LED representation of all 9 states, Functionality of Bit 3, and the overall feel of design meaning how well it is designed. Please follow the same rubric that you will follow when presenting in class.  Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5a will happen in class on 2/7/2022.
