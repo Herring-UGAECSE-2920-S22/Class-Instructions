@@ -4,7 +4,7 @@ For deliverable 5, you will be taking on your first checkpoint. In this delivera
 
 # Deliverable 5a
 ## Complete Mode Inputs for Figure Drawing(D)
-By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the drawing without having to connect to the pi using a monitor. 
+By now your team should have looked into auto start for your pi. It will be required for this checkpoint If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the drawing without having to connect to the pi using a monitor. 
 
 For this deliverable your team will be required to set up modes for your Audio Car these modes will correlate with 4 switches on the dip switches we provided you all. Here is a key of how those switches/modes will work:
 
@@ -13,6 +13,9 @@ For this deliverable your team will be required to set up modes for your Audio C
 The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
 **TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. We will be checking for the Autostart, The LED representation of all 9 states, Functionality of Bit 3, and the overall feel of design meaning how well it is designed. Please follow the same rubric that you will follow when presenting in class.  Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5a will happen in class on 2/7/2022.
+
+
+**WARNING**: Autostart means you cannot use a monitor, VNC viewer, ssh, or any software to start your pi and audio car. You pi should begin your program upon being plugged into the wall.
 
 **NOTE:**  You should look at hysteresis techniques in software and/or hardware when using switches.
 
@@ -28,7 +31,7 @@ This deliverable will be tested using the following guidlines:
 - 
 **TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5b will happen in class on 2/9/2022.
 
-**D:** As a part of this deliverable both 5a and 5b we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
+**D:** As a part of this deliverable both 5a and 5b we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully(70%) you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
 ## Finish Documentation for Figure Drawing/Mode Inputs
 
