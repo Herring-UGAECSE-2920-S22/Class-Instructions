@@ -4,7 +4,7 @@ For deliverable 5, you will be taking on your first checkpoint. In this delivera
 
 # Deliverable 5a
 ## Complete Mode Inputs for Figure Drawing(D)
-By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the drawing without having to connect to the pi using a monitor.
+By now your team should have looked into auto start for your pi. If you haven't refer again to this [resource](./setup/launch-on-startup.md) You will use this along with the DIP switch provided in order to start your car, and start each mode of the drawing without having to connect to the pi using a monitor. 
 
 For this deliverable your team will be required to set up modes for your Audio Car these modes will correlate with 4 switches on the dip switches we provided you all. Here is a key of how those switches/modes will work:
 
@@ -12,7 +12,7 @@ For this deliverable your team will be required to set up modes for your Audio C
 
 The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
-**TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. 
+**TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5a will happen in class on 2/7/2022.
 
 **NOTE:**  You should look at hysteresis techniques in software and/or hardware when using switches.
 
@@ -26,7 +26,7 @@ This deliverable will be tested using the following guidlines:
 - Square: The car will drive in a square that is 3 feet on each side 2 times and stop.
 - Figure 8: The car will drive in a figure 8 pattern two times and stop.  The two straight center lines of the figure 8 will be 3 feet long. 
 - 
-**TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design.
+**TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5b will happen in class on 2/9/2022.
 
 **D:** As a part of this deliverable we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
@@ -38,8 +38,8 @@ As you finish this checkpoint it is important to keep up woth your documentation
 
 In summary, for this week you need to:
 
-1. **D:** Have proof of 3 mode inputs, (Figure Skating, Single Detect, Differentiate Source). 
+1. **D:** Have proof of and be able to demonstrate mode inputs.
 
-2. **D:** Physical Drawings, Your audio car should be able to go in a straight line, a square, and a figure eight. 
+2. **D:** Have proof of and be able to demonstrate physical Drawings, Your audio car should be able to go in a straight line, a square, and a figure eight. 
 
 3. Update your User Manual and Technical Documentation with your findings.
