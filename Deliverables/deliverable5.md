@@ -12,7 +12,7 @@ For this deliverable your team will be required to set up modes for your Audio C
 
 The user will toggle a set of 4 switches using the table above. For this deliverable at minimum you should have the Straight, Figure 8, Square and Don't Move Mode Inputs Set up.
 
-**TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with three LEDs that light equivalently to the chart above. We will be checking for the Autostart, The LED representation of all 9 states, Functionality of Bit 3, and the overall feel of design meaning how well it is designed. Please follow the same rubric that you will follow when presenting in class.  Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5a will happen in class on 2/7/2022.
+**TURN IN-On ELC & Demonstrate in Class**: A short video showing all modes needed for Figure Drawing. Represent this with four LEDs that light equivalently to the chart above, Bit 3 should be a Red LED. We will be checking for the Autostart, The LED representation of all 9 states, Functionality of Bit 3, and the overall feel of design meaning how well it is designed. Please follow the same rubric that you will follow when presenting in class.  Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5a will happen in class on 2/7/2022.
 
 
 **WARNING**: Autostart means you cannot use a monitor, VNC viewer, ssh, or any software to start your pi and audio car. You pi should begin your program upon being plugged into the wall.
