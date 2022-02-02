@@ -29,7 +29,7 @@ This deliverable will be tested using the following guidlines:
 - Square: The car will drive in a square that is 3 feet on each side 2 times and stop.
 - Figure 8: The car will drive in a figure 8 pattern two times and stop.  The two straight center lines of the figure 8 will be 3 feet long. 
 - 
-**TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5b will happen in class on 2/9/2022.
+**TURN IN-On ELC & Demonstrate in Class**: A short video showing all three modes in Figure Drawing working. In addition to the 3 figures ensure that your Bit 3 is Functional. Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design. The Demonstration for 5b will happen in class on 2/9/2022.
 
 **D:** As a part of this deliverable both 5a and 5b we ask you bring your car to class to demonstrate the work you have done so far. This is so we can get a feel for how  well the functionality has been implemented as well has grade you for this checkpoint. If completed successfully(70%) you will have made it to the minimum requirement for a 'C' in the class. **Remember this is not a guaranteed 'C' in the class but the minimum requirement to be eligible for it.**
 
@@ -46,3 +46,5 @@ In summary, for this week you need to:
 2. **D:** Have proof of and be able to demonstrate physical Drawings, Your audio car should be able to go in a straight line, a square, and a figure eight. 
 
 3. Update your User Manual and Technical Documentation with your findings.
+
+5. Make sure code for all these designs are on GitHub
