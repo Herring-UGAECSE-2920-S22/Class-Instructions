@@ -3,7 +3,7 @@
 For deliverable 6, you will begin moving forward from your first check point and diving into your filter design. This filter design will be what distinguishes your frequencies and allows you to detect particular sounds as you prepare for the next checkpoint.
 
 ## Preliminary Filter Design (P)
-For this Deliverable your team will be required to dive into your filter design for your Audio car. You must create a paper design of your filter idea and follow that up with a computer simulared design that includes a Bode Plot. This will be your first step to designing your filter please document this process and the logic behind your design.
+For this Deliverable your team will be required to dive into your filter design for your Audio car. You must create a paper design of your filter idea and follow that up with a computer simulared design that includes a Bode Plot. You will only be required to do this for the 2kHz frequency. This will be your first step to designing your filter please document this process and the logic behind your design.
 
 **TURN IN-On ELC**: Paper Design of your filter as well as a computer simulated design for this filter that includes a Bode Plot.
 
