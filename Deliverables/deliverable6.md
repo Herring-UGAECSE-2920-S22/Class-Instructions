@@ -8,9 +8,9 @@ For this Deliverable your team will be required to dive into your filter design 
 **TURN IN-On ELC**: Paper Design of your filter as well as a computer simulated design for this filter that includes a Bode Plot.
 
 ## Recheck Deliverable 5
-If you have not passed the Chekpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your car to class if you wish you get the checkpoint rechecked.
+If you have not passed the Checkpoint from last week you will have an oppurtunity this week to get it checked off. This will not be for a regrade of that deliverable but rather a confirmaton that you have completed the first checkpoint and can feel more comfortable moving forward. Please bring your car to class if you wish you get the checkpoint rechecked.
 
-**TURN IN-On ELC**: If you have not passed this checkpoint you can upload a short video showing Deliverable 5a & 5b Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design.
+**TURN IN-On ELC**: If you did not complete the checkpoint in class and if instructed to do so, upload a short video showing Deliverable 5a & 5b Please follow the same rubric that you will follow when presenting in class. Feel free to narrate these so that we can better understand the functions of your design.  This is only an option if there were unforseen problems during the in-person checkpoint.
 
 
 # Summary
