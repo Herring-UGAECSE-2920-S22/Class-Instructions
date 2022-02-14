@@ -1,5 +1,5 @@
 # Deliverable 7
-In this deliverable your team will be testing out (and showing your ability) to use the microphone and ultrasonic sensor. These components will allow your team to recognize and move toward the frequencies later on. In addition, you will start your power supply design–and also for the next 2 deliverables– you will be working on a new power supply for your audio car. The final design will be due as part of Deliverable 9. As much fun as it is to walk around your audio car with a wired power supply, it would be easier to use batteries. The power supply design that you create uses a 9V battery to power your audio car. 
+In this deliverable your team will be testing out (and showing your ability) to use the microphone and ultrasonic sensor. These components will allow your team to recognize and move toward the frequencies later on. In addition, you will start your power supply design. The final design will be due as part of Deliverable 9.
 
 
 ## Sound Detect(P)
@@ -19,7 +19,7 @@ For this deliverable–and also for the next 2 deliverables– you will be worki
 **Design Specifications**:
 * Power source is from a 9V battery
 * Must use active components (but not special purpose IC’s) to derive the voltage(s) you need to power all components of your car.
-* Filtering has also been covered in this class, so a basic filter will also be required. 
+* Filtering has been covered in this class, so a basic filter at the output will also be required to reduce noise. 
 * Must have circuitry to detect Overcurrent (ie. if the battery is being shorted) and Undervoltage (ie. if the battery is running low) and warn the user. 
   * This circuitry must inform the user via LED(s). You must have 4 different states that inform the user about its diagnostic state: 
 
