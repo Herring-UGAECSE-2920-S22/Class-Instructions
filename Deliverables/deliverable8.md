@@ -17,4 +17,5 @@ This ADC will allow you to determine the strength of the sound your car is recie
 In summary, for this week you need to:
 
 1. **P:** Filter Design(Experimental Bode Plot)
-2. Update your User Manual and Technical Documentation with your findings.
+2. **P:** 2-bit ADC
+3. Update your User Manual and Technical Documentation with your findings.
