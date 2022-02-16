@@ -6,9 +6,9 @@ In this deliverable your teams will solidify your filter design that you began t
 ## Hardware Filter Design(P)
 Reminder: The objective of this filter is to recieve sound frequencies 500Hz,2kHZ,and 8kHz **(We will test for 2kHz in deliverable 9)** and be able to determine where that sound is so that you can move to it. Think back to deliverable 6 and your Preliminary Filter Design. 
 
-**TURN-IN on ELC:** Your filter design via Multisim, in hardware using a function generator or other frequency source and spectrum analyzer output, or with Matlab. Include a EXPERIMENTAL bode plot in your documentation as well.
+**TURN-IN on ELC:** Your filter design in hardware using a function generator or other frequency source and spectrum analyzer output. Include a EXPERIMENTAL bode plot in your documentation as well.
 
-## 2-bit ADC
+## 2-bit ADC(P)
 This ADC will allow you to determine the strength of the sound your car is recieving.**More to come**
 
 
