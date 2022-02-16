@@ -1,6 +1,6 @@
 
 # Deliverable 8
-In this deliverable your teams will solidify your filter design that you began the preliminary work for in Deliverable 6. This design will lay the foundation for Deliverable 9(Checkpoint 2). Though there is only one thing to turn in this week it is a stepping stone to what is next. In addition to that you will need to create a 2-bit ADC.
+In this deliverable your teams will solidify your filter design that you began the preliminary work for in Deliverable 6. This design will lay the foundation for Deliverable 9(Checkpoint 2) which is NEXT WEEK! Though there is only two things to turn in this week it is a stepping stone to what is next,look at the Minimum requirement for a 'B' on ELC and prepare for next week accordingly. In addition to that you will need to create a 2-bit ADC.
 
 
 ## Hardware Filter Design(P)
