@@ -39,6 +39,7 @@ One of Dr. Trudgen's favorite words is **iteration:** a procedure in which repet
 - You must also submit a MultiSim, Simulink, LTSpice, etc. simulation demonstrating the functionality, stability, and quality of your design. Your simulation should measure the output characteristics of your design with and without a load, including measurements such as voltage, current.
 - In addition to your design and simulation, you'll also need to provide a Bill of Materials which should include DigiKey prices and part numbers for every electrical component.
 - Finally, you should evaluate the efficiency of your power supply solution.  Make sure you understand what that means and how to evaluate.
+- \*Note: You are not actaully implementing your design into hardware; just every step up to that point.
 
 **TURN IN-On ELC**: For Deliverable 7, use the lecture on functional decomposition.  Your team needs to provide a nearly completed level 0 and level 1 design for the power supply.  You are not selecting the components yet, that would be level 2.  
 
