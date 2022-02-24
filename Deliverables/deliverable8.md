@@ -21,5 +21,5 @@ Your ADC will allow you to determine the strength of the sound your car is recei
 In summary, for this week you need to:
 
 1. **P:** Filter Design and Testing
-2. **P:** 2-bit ADC
+2. **P:** ADC Design
 3. Update your User Manual and Technical Documentation with your findings.
