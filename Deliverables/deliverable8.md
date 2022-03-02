@@ -13,7 +13,7 @@ In order to drive to the sound, you must have a way to give direction to your PI
 
 Your ADC will allow you to determine the strength of the sound your car is receiving and will be used to navigate to the sound source in grade checkpoint deliverable 9. Prove the schematic of your ADC works to help you differentiate the location of the sound. Explain how the ADC you made works and how it interfaces with the audio filter and with the Raspberry Pi, in an in-depth written description. 
 
-**TURN-IN on ELC:** A document containing 1) your filter and ADC finalized schematic, 2) A photo of your physical hardware, 3) A written description of your filter design, including math to back up claims, 4) Photos of your physical filter response (Spectrum analyzer and Bode Plot, and 5) A written description of your ADC.  Make sure to include at least pseudo code for the PI response to the ADC input.
+**TURN-IN on ELC:** A document containing 1) your filter (working for 2KHz) and ADC finalized schematic, 2) A photo of your physical hardware, 3) A written description of your filter design, including math to back up claims, 4) Photos of your physical filter response (Spectrum analyzer and Bode Plot, and 5) A written description of your ADC.  Make sure to include at least pseudo code for the PI response to the ADC input.
 
 
 # Summary
