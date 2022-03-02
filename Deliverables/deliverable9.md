@@ -2,6 +2,9 @@
 For Deliverable 10, you will be taking on your second checkpoint. Single Sound Detect.
 
 
+## Power Design
+
+
 ## Single Sound Detect(D)
 Requirements for this checkpoint are quoted from the project description:
 
@@ -19,4 +22,5 @@ In summary, for this week you need to:
 
 1. **D**: Power Design(DC-DC) Multisim and PCB Design with itemized Bill of Materials (BOM)
 2. **D**: Tracking a Single Sound complete
-3. Update your User Manual and Technical Documentation with your findings.
+3. **P**: CATME Review 2
+4. Update your User Manual and Technical Documentation with your findings.
