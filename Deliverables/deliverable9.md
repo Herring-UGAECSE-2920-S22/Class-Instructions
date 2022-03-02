@@ -1,5 +1,5 @@
 # Deliverable 9
-For Deliverable 10, you will be taking on your second checkpoint. Single Sound Detect.
+For Deliverable 10, you will be taking on your second checkpoint. Single Sound Detect. This check point is the **Minimum Set to be considered for a “B"** remember that passing this checkpoint does not guarantee you a B but allows you to be eligible for one.
 
 
 ## Finalize Power Design(D)
