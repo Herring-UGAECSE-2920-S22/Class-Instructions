@@ -3,7 +3,7 @@ For Deliverable 10, you will be taking on your second checkpoint. Single Sound D
 
 
 ## Finalize Power Design(D)
-As a continuation of deliverable 8 you will be required to finish Multisim/other simulation, and create a Bill of Materials are due this week as a D design deliverable. Below is a reminder of the Design Specifications:
+As a continuation of deliverable 8 you will be required to finish Multisim/other simulation, PCB, Design, and create a Bill of Materials are due this week as a D design deliverable. Below is a reminder of the Design Specifications:
 
 **Design Specifications**:
 * Let's get mobile.  Power should ultimately now come from a battery.  Specifically, a 9V battery(ies), but generally a family of 9V batteries is acceptable (9.6V, 9.XV, i.e. it does not have to be rated explicitly at 9.0V).  
