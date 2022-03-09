@@ -2,6 +2,12 @@
 # Deliverable 8
 In this deliverable your teams will solidify your filter design that you began the preliminary work for in Deliverable 6 and you will need to create a 2-bit ADC. This design will lay the foundation for Deliverable 9(Checkpoint 2) which is NEXT WEEK! Though there are only two things to turn in this week it is a stepping stone to what is next, look at the Minimum requirement for a 'B' on ELC and prepare for next week accordingly. 
 
+## Helpful information on your LM339
+The LM339 is open collector output.  If you haven't reviewed the LM339 data sheet or applications sheet from TI (Texas Instruments), you should (on ELC).  There are also some good links for reference on the internet to check out. However, videos and "how to" articles often leave much to the viewer/reader to consider so make sure you understand how the circuit works.  Good practice is to set up an LM339 by itself and figure out its idiosyncracies before wiring it up in your main application.
+https://www.youtube.com/watch?v=b0w0q2xTzgg  
+https://www.theengineeringprojects.com/2017/06/introduction-to-lm339.html
+
+
 
 ## Hardware Design for Filtering and ADC (P)
 
