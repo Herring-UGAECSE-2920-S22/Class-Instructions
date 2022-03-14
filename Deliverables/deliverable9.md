@@ -2,8 +2,9 @@
 For Deliverable 9, you will be taking on your second checkpoint. Single Sound Detect. This check point is the **Minimum Set to be considered for a “B"** remember that passing this checkpoint does not guarantee you a B but allows you to be eligible for one. In addition to that you all will complete your Power Design with Multisim/other simulation and a Bill of Materials
 
 
-## Finalize Power Design(D)
-As a continuation of deliverable 8 you will be required to finish Multisim/other simulation and create a Bill of Materials this week as a D design deliverable. This should allow your team to work on the PCB as part of the next checkpoint. Below is a reminder of the Design Specifications:
+## Finalize Power Design(D)  The D version of this deliverable (DC-DC power design) is now moved to Checkpoint 10.  For checkpoint 9, you will have a "P" level checkpoint.  
+For the "P" level deliverable as part of checkpoint 9, take your starting point from checkpoint 7 and now you should have a component level schematic at a minimum.  Post this component level schematic along with an initial bill of materials to ELC.
+
 
 **Design Specifications DC-DC design**:
 * Let's get mobile. Power should ultimately now come from a battery as part of the DC-DC design.  Specifically, a 9V battery(ies), but generally a family of 9V batteries is acceptable (9.6V, 9.XV, i.e. it does not have to be rated explicitly at 9.0V).  
