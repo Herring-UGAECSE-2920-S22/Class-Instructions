@@ -39,16 +39,5 @@ In summary, for this week you need to:
 
 1. **D**: Power Design(DC-DC) Multisim and PCB Design with itemized Bill of Materials (BOM)
 2. **P** Initial PCB design.  Eagle cad files for your DC-DC design.
-3. 
-4. Update your User Manual and Technical Documentation with your findings.
-
-
-
-# Summary
-
-In summary, for this week you need to:
-
-1. **P**: Multifilter Design
-2. **P**: PCB Design
-3. **D**: DC-DC Design 
+3. **P**: Multifilter Design
 4. Update your User Manual and Technical Documentation with your findings.
