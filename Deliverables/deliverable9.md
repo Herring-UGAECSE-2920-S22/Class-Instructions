@@ -31,7 +31,7 @@ Requirements for this checkpoint are quoted from the project description:
 
 Your car can use either the 12AC/DC adapter or 9V battery(ies).  It is up to you.
 
->"Your car must be able to detect a single sound frequency(2kHz) and move to it without hitting the source (4 inches). A sound source will be placed 3-5 feet from the car and in any position with respect to the car (placed by grader). The car will find identify and find the sound source (sound source B).  The car will drive to the sound 
+>"Your car must be able to detect a single sound frequency(2kHz) and move to it without hitting the source (4 inches). A sound source will be placed 3-5 feet from the car and in any position with respect to the car (placed by grader). The car will identify and find the sound source (sound source B).  The car will drive to the sound 
 source and using the usonic sensor, stop prior to hitting the source.  The front of the car must be within 
 4 inches of the source before stopping."
 
