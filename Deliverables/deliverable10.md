@@ -31,7 +31,6 @@ You will be required to finish Multisim/other simulation and create a Bill of Ma
 
 
 
-## CATME Review(Reminder)
 
 # Summary
 
