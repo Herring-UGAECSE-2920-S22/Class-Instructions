@@ -2,7 +2,7 @@
 For Deliverable 9, you will be taking on your second checkpoint. Single Sound Detect. This check point is the **Minimum Set to be considered for a “B"** remember that passing this checkpoint does not guarantee you a B but allows you to be eligible for one. In addition to that you all will complete your Power Design with Multisim/other simulation and a Bill of Materials
 
 
-## Finalize Power Design(D)  The D version of this deliverable (DC-DC power design) is now moved to Checkpoint 10.  For checkpoint 9, you will have a "P" level checkpoint.  
+## Finalize Power Design(P)  The D version of this deliverable (DC-DC power design) is now moved to Checkpoint 10.  For checkpoint 9, you will have a "P" level checkpoint.  
 For the "P" level deliverable as part of checkpoint 9, take your starting point from checkpoint 7 and now you should have a component level schematic at a minimum.  Post this component level schematic along with an initial bill of materials to ELC.
 
 
@@ -41,7 +41,7 @@ source and using the usonic sensor, stop prior to hitting the source.  The front
 
 In summary, for this week you need to:
 
-1. **D**: Power Design(DC-DC) Multisim and PCB Design with itemized Bill of Materials (BOM)
+1. **P**: Power Design(DC-DC) Multisim and PCB Design with itemized Bill of Materials (BOM)
 2. **D**: Tracking a Single Sound complete
 3. **Reminder**: CATME Review 2
 4. Update your User Manual and Technical Documentation with your findings.
