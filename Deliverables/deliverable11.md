@@ -1,5 +1,5 @@
 # Deliverable 11
-For Deliverable 11, you will be taking your power supply from the previous deliverables and translating it to a PCB. In addition to that you will be creating a Bode Plot using your Multifilter Design in prepration for **Deliverable 12**
+For Deliverable 11, you will be taking your power supply from the previous deliverables and translating it to a PCB. In addition to that you will be creating a Bode Plot using your Multifilter Design in prepration for **Deliverable 12** This deliverable may not seem like alot but be reminded your Final Checkpoint is right around the corner!
 
 ## PCB Design(D)
 For this deliverable, your team will be required to provide a PCB design based on your circuit using EAGLE, Altium, or any PCB software you prefer. 
