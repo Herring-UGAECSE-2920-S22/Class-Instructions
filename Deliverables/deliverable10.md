@@ -36,7 +36,7 @@ You will be required to finish Multisim/other simulation and create a Bill of Ma
 
 In summary, for this week you need to:
 
-1. **D**: Power Design(DC-DC) Multisim and PCB Design with itemized Bill of Materials (BOM)
+1. **D**: Finalized Report of Power Supply Design (DC-DC) with Multisim Simulation and specific (part names, prices, vendors, values, etc), itemized Bill of Materials (BOM)
 2. **P** Initial PCB design.  Eagle cad files for your DC-DC design.
 3. **P**: Multifilter Design
 4. Update your User Manual and Technical Documentation with your findings.
