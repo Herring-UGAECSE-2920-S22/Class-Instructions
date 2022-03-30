@@ -12,7 +12,9 @@ Your car must be able to differentiate three different freqencies which are play
 
 The three sound sources will be positioned within 3-5 feet of the **starting** position of the car (placed by grader). the car will identify and find the sound sources in order (A,B,C). The front of the car must be within 4 inches of the sound source and stop. After stopping, the car will find the next sound source in sequence.
 
+**Testing Tips to Recall:** As per We will check a
 
+**Turn In on ELC:**  
 # Summary
 
 In summary, for this week you need to:
