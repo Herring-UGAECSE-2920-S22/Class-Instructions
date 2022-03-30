@@ -12,9 +12,11 @@ Your car must be able to differentiate three different freqencies which are play
 
 The three sound sources will be positioned within 3-5 feet of the **starting** position of the car (placed by grader). the car will identify and find the sound sources in order (A,B,C). The front of the car must be within 4 inches of the sound source and stop. After stopping, the car will find the next sound source in sequence.
 
-**Testing Tips to Recall:** As per We will check a
+**Testing Tips to Recall:** As per Dr. Herring's email, You do not have to disconnect the usonic sensor.  However, we still need a way to determine that you are accurately using the audio filter.  So, count on having more than one sound active simultaneously.  We may also put out an item that does not make any sound to allow us to verify both the usonic and the audio filter function.
 
-**Turn In on ELC:**  
+
+**Turn In on ELC:**  Video proof of deliverable completion,(dont forget to upload code to github)
+
 # Summary
 
 In summary, for this week you need to:
