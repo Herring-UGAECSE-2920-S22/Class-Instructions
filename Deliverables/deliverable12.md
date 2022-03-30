@@ -1,5 +1,5 @@
 # Deliverable 12
-For Deliverable 12, you will be taking on your third and final checkpoint. Differentiating Sounds. This check point is the **"Minimum Set to be considered for a A-"** remember that passing this checkpoint does not guarantee you a B but allows you to be eligible for one. 
+For Deliverable 12, you will be taking on your third and final checkpoint. Differentiating Sounds. This check point is the **"Minimum Set to be considered for a A-"** remember that passing this checkpoint does not guarantee you a A- but allows you to be eligible for one. 
 
 ## Differentiating Sounds(D)
 This deliverable will be performed in class, Your team is responsible for the following
