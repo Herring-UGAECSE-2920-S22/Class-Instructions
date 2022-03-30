@@ -5,7 +5,7 @@ For Deliverable 11, you will be taking your power supply from the previous deliv
 For this deliverable, your team will be required to provide a PCB design based on your circuit using EAGLE, Altium, or any PCB software you prefer. 
 
 
-**TURN IN-On ELC**: PCB File(board file and schematic file), screenshots of those things as well included in your ElC documentation.
+**TURN IN-On ELC**: PCB File(board file and schematic file), screenshots of those things also included in your ElC documentation.
 
 
 ## Bode Plots for Multifilter Design(P)
